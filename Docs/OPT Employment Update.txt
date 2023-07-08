@@ -1,0 +1,6 @@
+New Employment Information
+Employer Name: spaceFlow LLC
+Employer Address: 20125 Rhapsody Rd, Walnut, CA 91789
+Job Title: Full Stack Engineer
+Hours per week: Full-time
+Explain: I work full-time or part-time as a Full Stack Engineer for spaceFlow LLC. My duties include development of website, backend and database. At this job, I use JavaScript, Nodejs and SQL, which directly relates to my USC M.S. in Computer Science.
