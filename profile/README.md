@@ -10,6 +10,12 @@ Furthermore, our platform seamlessly integrates various rent-related operations,
 
 At spaceFlow, we are committed to revolutionizing the rental industry through cutting-edge technology and outstanding customer service. Our platform serves as a catalyst for maximizing space utilization and ensuring a seamless rent flow. Join us as we transform the way properties are managed, making space utilization more efficient and rent management an effortless experience.
 
+## Progress
+
+|Rental Lifecycle | Before-contract | In-contract | After-contract | 
+|-|-|-|-|
+|Porjects| Cloud Tour (ongoing)<br> eSign| Maintainence Ticket System <br> Pay Rent System <br> Landlord Dashborard (ongoing) | Credit System|
+
 ## Business Model
 - Monthly subscription or on-demand fee
 - Smart lock hardware
