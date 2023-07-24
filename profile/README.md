@@ -10,6 +10,10 @@ Furthermore, our platform seamlessly integrates various rent-related operations,
 
 At spaceFlow, we are committed to revolutionizing the rental industry through cutting-edge technology and outstanding customer service. Our platform serves as a catalyst for maximizing space utilization and ensuring a seamless rent flow. Join us as we transform the way properties are managed, making space utilization more efficient and rent management an effortless experience.
 
+## Business Model
+- Monthly subscription or on-demand fee
+- Smart lock hardware
+
 ## Design Story
 Let take Airbnb website as a role model.
 
