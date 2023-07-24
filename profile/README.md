@@ -14,7 +14,11 @@ At spaceFlow, we are committed to revolutionizing the rental industry through cu
 
 |Rental Lifecycle | Before-contract | In-contract | After-contract | 
 |-|-|-|-|
-|Porjects| Cloud Tour (ongoing)<br> eSign| Maintainence Ticket System <br> Pay Rent System <br> Landlord Dashborard (ongoing) | Credit System|
+|Porjects|  Cloud Tour :fire: <br> eSign| Maintainence Ticket System <br> Pay Rent System <br> Landlord Dashborard :fire:| Credit System|
+
+## Customer
+- Property Management Company
+- Multi-Property Holders
 
 ## Business Model
 - Monthly subscription or on-demand fee
