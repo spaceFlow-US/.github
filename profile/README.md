@@ -18,7 +18,12 @@ At spaceFlow, we are committed to revolutionizing the rental industry through cu
 
 ## Business Model
 - Monthly subscription or on-demand fee
-- Smart lock hardware
+- Ultra power saving smart lock
+
+## Potential
+- Enables agents to conduct up to 30 tours per day, maximizing the number of visits and significantly enhancing the likelihood of successful deal closures, without requiring physical presence.
+- Facilitates remote management for multi-property holders nationwide, enabling efficient and effective property management from any location.
+
 
 ## Design Story
 Let take Airbnb website as a role model.
