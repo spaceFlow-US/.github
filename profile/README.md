@@ -28,6 +28,29 @@ At spaceFlow, we are committed to revolutionizing the rental industry through cu
 - Enables agents to conduct up to 30 tours per day, maximizing the number of visits and significantly enhancing the likelihood of successful deal closures, without requiring physical presence.
 - Facilitates remote management for multi-property holders nationwide, enabling efficient and effective property management from any location.
 
+## Motivation
+
+My name is Sung-Fu Han, and I've been a software engineer and part-time landlord in Taiwan for the past 10 years. I manage properties scattered across Taipei City, New Taipei City, and Kaohsiung. However, the challenges of in-person property tours have led me to embark on an exciting new venture.
+
+Taipei's notorious traffic has proven to be a nightmare, making it a struggle to travel from one rental property to another. Even when I manage to arrive on time, tenants sometimes cancel the room tours for various reasons, leaving me feeling frustrated and inefficient.
+
+To address this issue, I believe that in-person room tours are not only inefficient but also impractical, especially when landlords are not always available at the property. What if they're on vacation and a potential tenant wants a tour? That's when I had a revolutionary idea – self-guided tours! This would allow tenants to explore the property at their convenience without the need for me to be physically present.
+
+However, I understand the safety concerns associated with self-tours, especially in well-decorated properties where the risk of damage or theft is higher. Installing web cameras to monitor the tours seems like a solution, but it introduces extra efforts, and tenants may worry about their privacy even after the cameras are removed.
+
+To overcome these challenges, I'm introducing the "Zero Installation Self Tour." This innovative solution is perfect for landlords with decorated properties or those who require video tours. With this system, tenants can experience the property virtually without any physical installations or privacy concerns.
+
+But my vision doesn't stop there. I'm driven by a larger dream – to fully automate the entire rental process and turn renting a house into a genuine passive income stream. As a dedicated software engineer, my goal is to focus on my profession and achieve career growth while the rental process runs seamlessly in the background.
+
+To achieve this, I've divided the rental process into three essential parts: before-contract, in-contract, and after-contract. Before-contract services involve recruiting the right tenants through self-tours, background checks, financial capability assessments, and online communication between landlords and tenants.
+
+In-contract features include convenient contract eSign, secure deposit and monthly rent payment systems, and a daily maintenance ticket system to address any issues promptly.
+
+My plans for the after-contract phase includes move-out photo checks and cleaning service requests to ensure the property is ready for the next tenant. For the final part, third-party cleaning services can help restore the property to its initial state, allowing it to back to next rental life cycle quickly.
+
+I firmly believe that automating the entire rental process is feasible, and it's surprising that there's no mature solution available in the market yet. With this conviction, I've decided to take the lead and turn my vision into reality.
+
+My mission is to empower landlords and revolutionize the rental industry. Together, we'll make renting a house a true passive income opportunity, free from the burdens of traditional property management.
 
 ## Design Story
 Let take Airbnb website as a role model.
