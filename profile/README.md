@@ -38,7 +38,7 @@ To address this issue, I believe that in-person room tours are not only ineffici
 
 However, I understand the safety concerns associated with self-tours, especially in well-decorated properties where the risk of damage or theft is higher. Installing web cameras to monitor the tours seems like a solution, but it introduces extra efforts, and tenants may worry about their privacy even after the cameras are removed.
 
-To overcome these challenges, I'm introducing the "Zero Installation Self Tour." This innovative solution is perfect for landlords with decorated properties or those who require video tours. With this system, tenants can experience the property virtually without any physical installations or privacy concerns.
+To overcome these challenges, I'm introducing the "Zero Installation Self Tour." This innovative solution is perfect for landlords with decorated properties or those who require video tours. With this system, tenants can experience the property in person without any physical installations or privacy concerns.
 
 But my vision doesn't stop there. I'm driven by a larger dream – to fully automate the entire rental process and turn renting a house into a genuine passive income stream. As a dedicated software engineer, my goal is to focus on my profession and achieve career growth while the rental process runs seamlessly in the background.
 
