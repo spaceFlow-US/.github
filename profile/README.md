@@ -52,7 +52,7 @@ I firmly believe that automating the entire rental process is feasible, and it's
 
 My mission is to empower landlords and revolutionize the rental industry. Together, we'll make renting a house a true passive income opportunity, free from the burdens of traditional property management.
 
-## Design Story
+## Design Story - Cloud Tour
 Let take Airbnb website as a role model.
 
 Think you are a tenant and is searching for a room to rent at least 3 month or longer.
