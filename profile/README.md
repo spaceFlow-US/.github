@@ -14,7 +14,13 @@ At spaceFlow, we are committed to revolutionizing the rental industry through cu
 
 |Rental Lifecycle | Before-contract | In-contract | After-contract | 
 |-|-|-|-|
-|Porjects|  Cloud Tour :fire: <br> eSign <br> MapView Room Selection| Maintainence Ticket System <br> Pay Rent System <br> Landlord Dashborard :fire:| Credit System|
+|Porjects| Cloud Tour :fire: <br> eSign <br> MapView Room Selection | Maintainence Ticket System <br> Pay Rent System <br> Landlord Dashborard :fire:| Credit System|
+
+## Culture
+- [Fight on](https://www.youtube.com/watch?v=RQ7oArZrQ1s&t=73s&ab_channel=CaliforniasGold)
+- Perfection
+- Curiosity
+- Passion
 
 ## Customer
 - Property Management Company
