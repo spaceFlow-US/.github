@@ -1,6 +1,6 @@
 # spaceFlow LLC
 
-spaceFlow is a technology-driven company with a clear mission to optimize space utilization and facilitate a seamless rental experience.
+spaceFlow is a technology-driven company with a clear mission to optimize space utilization and make seamless rental experience generally available to everyone.
 
 Our advanced platform offers a comprehensive solution for both landlords, including property agencies, and tenants, automating daily rent management tasks through the utilization of IoT devices such as smart locks, smart meters, and AI cameras. By addressing pain points experienced by both parties, we enhance transparency and foster a more efficient exchange of property information.
 
@@ -10,11 +10,17 @@ Furthermore, our platform seamlessly integrates various rent-related operations,
 
 At spaceFlow, we are committed to revolutionizing the rental industry through cutting-edge technology and outstanding customer service. Our platform serves as a catalyst for maximizing space utilization and ensuring a seamless rent flow. Join us as we transform the way properties are managed, making space utilization more efficient and rent management an effortless experience.
 
+
+
+
 ## Progress
 
-|Rental Lifecycle | Before-contract | In-contract | After-contract | 
-|-|-|-|-|
-|Porjects| Cloud Tour :fire: <br> eSign <br> MapView Room Selection | Maintainence Ticket System <br> Pay Rent System <br> Landlord Dashborard :fire:| Credit System|
+
+|Rental Lifecycle | Before-contract: Self Tour | Before-contract: Application | In-contract | After-contract | 
+|-|-|-|-|-|
+|Porjects| MapView :fire: <br>  ID Check <br> Cloud Tour :fire: | Background check <br> eSign | Maintainence Ticket System <br> Pay Rent System <br> Tenant App <br> Landlord Dashborard :fire:| Credit System|
+
+![image](https://github.com/spaceFlow-US/.github/assets/20626329/1e237faf-43db-4eba-b639-1021af38717d)
 
 ## Culture
 - [Fight on](https://www.youtube.com/watch?v=RQ7oArZrQ1s&t=73s&ab_channel=CaliforniasGold)
