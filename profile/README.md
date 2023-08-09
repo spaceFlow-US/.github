@@ -11,7 +11,9 @@ Furthermore, our platform seamlessly integrates various rent-related operations,
 At spaceFlow, we are committed to revolutionizing the rental industry through cutting-edge technology and outstanding customer service. Our platform serves as a catalyst for maximizing space utilization and ensuring a seamless rent flow. Join us as we transform the way properties are managed, making space utilization more efficient and rent management an effortless experience.
 
 
-
+## Pitch Deck
+- [Sheet](https://docs.google.com/spreadsheets/d/1BViheaBCrXD0x2fArpVnu0dqRzkXZJQ4UsFLsZ8C3Y8/edit?usp=sharing)
+- [Slide](https://docs.google.com/presentation/d/1mOHJSB7zn1kANBHeg-8qv2BKCFXFBA6d_E6fMQoF3kk/edit?usp=sharing)
 
 ## Progress
 
