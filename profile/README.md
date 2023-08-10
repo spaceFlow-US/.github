@@ -1,6 +1,6 @@
 # spaceFlow LLC
 
-spaceFlow is a technology-driven company with a clear mission to optimize space utilization and make seamless rental experience generally available to everyone.
+spaceFlow is a technology-driven company with a clear mission to optimize space utilization and make seamless rental experience generally available.
 
 Our advanced platform offers a comprehensive solution for both landlords, including property agencies, and tenants, automating daily rent management tasks through the utilization of IoT devices such as smart locks, smart meters, and AI cameras. By addressing pain points experienced by both parties, we enhance transparency and foster a more efficient exchange of property information.
 
