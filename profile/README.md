@@ -122,7 +122,7 @@ Note: This design document provides a high-level overview of the room tour exper
 ## Domain 
 [spaceflow.in](https://cloudtour.spaceflow.in)
 
-> [spaceflow.io](https://spaceflow.io) is taken by a [real estate company](https://www.linkedin.com/company/spaceflow/?originalSubdomain=cz) in Prague which has the similar mission with us. However, they focus on after contract management. On the other hand, we focus on entire rental life cycle including before contract.
+> [spaceflow.io](https://spaceflow.io) is taken by a [real estate company](https://www.linkedin.com/company/spaceflow/?originalSubdomain=cz) in Prague which has the similar mission with us. However, they focus on in-contract management. On the other hand, we focus on entire rental life cycle.
 
 
 
