@@ -14,9 +14,9 @@ At spaceFlow, we are committed to revolutionizing the rental industry through cu
 ## Progress
 
 
-|Rental Lifecycle | Before-contract: Self Tour | Before-contract: Application | In-contract | After-contract | 
-|-|-|-|-|-|
-|Porjects| MapView :fire: <br>  ID Check <br> Cloud Tour :fire: | Background check <br> eSign | Maintainence Ticket System <br> Pay Rent System <br> Tenant App <br> Landlord Dashborard :fire:| Credit System|
+|Rental Lifecycle | Before-contract | In-contract | After-contract | 
+|-|-|-|-|
+|Porjects| Frontier Map Search :fire: <br>  ID Check <br> Self Tour :fire: <br> Background Check <br> eSign | Pay Rent System <br> Maintainence Ticket System <br> Tenant Web App <br> Landlord Web App :fire: | Credit System |
 
 ![image](https://github.com/spaceFlow-US/.github/assets/20626329/1e237faf-43db-4eba-b639-1021af38717d)
 
