@@ -7,16 +7,14 @@ Our platform leverages IoT devices and AI to streamline the entire rental proces
 At spaceFlow, we are committed to revolutionizing the rental industry through cutting-edge technology. Our platform serves as a catalyst for maximizing space utilization and ensuring a seamless rent flow. Join us as we transform the way properties are managed, making space utilization more efficient and rent management an effortless experience.
 
 ## Problem
-- Base on Zumper, average room idle time is 42 days.
+Base on Zumper, average room idle time is 42 days.
 
 Because
-
-1. Even professional agent can take up to 10 room tours per week.
+1. Even professional agent can conduct up to 10 room tours per week, not to mention landlords.
 2. Weekdays room tour is 9am - 5pm, but busy tenant are free after 7pm.
-3. Landlords suffer from commute to rent location under the risk been ghosted.
 
 ## Solution
-- Self tour
+Self tour
 
 ## Potential
 - Enables agents to conduct up to 30 tours per day, maximizing the number of visits and significantly enhancing the likelihood of successful deal closures, without requiring physical presence.
