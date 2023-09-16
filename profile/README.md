@@ -16,6 +16,15 @@ Because
 ## Solution
 Self tour
 
+## How large the market?
+According to US Census Bureau, there are 24M individual landlord owned rental housing units.
+
+According to Zumper, self tour can shorten 0.3 month room idle time.
+
+Assume each unit is $1000/Mo.
+
+Self tour can save 7.2B per year.
+
 ## Potential
 - Enables agents to conduct up to 30 tours per day, maximizing the number of visits and significantly enhancing the likelihood of successful deal closures, without requiring physical presence.
 - Facilitates remote management for multi-property holders nationwide, enabling efficient and effective property management from any location.
