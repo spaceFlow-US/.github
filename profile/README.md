@@ -6,13 +6,27 @@ Our platform leverages IoT devices and AI to streamline the entire rental proces
 
 At spaceFlow, we are committed to revolutionizing the rental industry through cutting-edge technology. Our platform serves as a catalyst for maximizing space utilization and ensuring a seamless rent flow. Join us as we transform the way properties are managed, making space utilization more efficient and rent management an effortless experience.
 
+## Problem
+- Base on Zumper, average room idle time is 42 days.
+
+Because
+
+1. Even professional agent can take up to 10 room tours per week.
+2. Weekdays room tour is 9am - 5pm, but busy tenant are free after 7pm.
+3. Landlords suffer from commute to rent location under the risk been ghosted.
+
+## Solution
+- Self tour
+
+## Potential
+- Enables agents to conduct up to 30 tours per day, maximizing the number of visits and significantly enhancing the likelihood of successful deal closures, without requiring physical presence.
+- Facilitates remote management for multi-property holders nationwide, enabling efficient and effective property management from any location.
 
 ## Pitch Deck
 - [Sheet](https://docs.google.com/spreadsheets/d/1BViheaBCrXD0x2fArpVnu0dqRzkXZJQ4UsFLsZ8C3Y8/edit?usp=sharing)
 - [Slide](https://docs.google.com/presentation/d/1mOHJSB7zn1kANBHeg-8qv2BKCFXFBA6d_E6fMQoF3kk/edit?usp=sharing)
 
 ## Progress
-
 
 |Rental Lifecycle | Before-contract | In-contract | After-contract | 
 |-|-|-|-|
@@ -25,11 +39,6 @@ At spaceFlow, we are committed to revolutionizing the rental industry through cu
 - Perfection
 - Curiosity
 - Passion
-
-
-## Potential
-- Enables agents to conduct up to 30 tours per day, maximizing the number of visits and significantly enhancing the likelihood of successful deal closures, without requiring physical presence.
-- Facilitates remote management for multi-property holders nationwide, enabling efficient and effective property management from any location.
 
 ## Motivation
 
