@@ -45,17 +45,9 @@ To overcome these challenges, I'm introducing the "Zero Installation Self Tour."
 
 But my vision doesn't stop there. I'm driven by a larger dream – to fully automate the entire rental process and turn renting a house into a genuine passive income stream. 
 
-To achieve this, I will automate each part in rental life cycle. I've divided the rental process into three essential parts: before-contract, in-contract, and after-contract. 
+To achieve this, I will automate each part in rental life cycle. I've divided the rental process into three essential parts: before-contract, in-contract, and after-contract. Before-contract services involve recruiting the right tenants through self-tours, identity verification, background checks and eSign. In-contract features include monthly rent payment systems, and maintenance ticket system to address any issues promptly. After-contract includes credit system and room rollback service to ensure the property can rejoin listing automatically.
 
-Before-contract services involve recruiting the right tenants through self-tours, identity verification, background checks and eSign.
-
-In-contract features include monthly rent payment systems, and maintenance ticket system to address any issues promptly.
-
-After-contract includes credit system and room rollback service to ensure the property can rejoin listing automatically.
-
-I firmly believe that automating the entire rental process is feasible, and self your is the last mile. It's surprising that there's no holistic solution available in the market yet. With this conviction, I've decided to take the lead and turn my vision into reality.
-
-My mission is to make entire rental process more efficent. Together, we'll make renting a house a true passive income.
+I firmly believe that automating the entire rental process is feasible, and self tour is last mile. It's surprising that there's no holistic solution available in the market yet. With this conviction, I've decided to take the lead and turn my vision into reality. My mission is to make entire rental process more efficent. Together, we'll make renting a house a true passive income.
 
 ## Design Story - Cloud Tour
 Let take Airbnb website as a role model.
