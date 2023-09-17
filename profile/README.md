@@ -33,6 +33,16 @@ Self tour can save 7.2B per year.
 - [Sheet](https://docs.google.com/spreadsheets/d/1BViheaBCrXD0x2fArpVnu0dqRzkXZJQ4UsFLsZ8C3Y8/edit?usp=sharing)
 - [Slide](https://docs.google.com/presentation/d/1mOHJSB7zn1kANBHeg-8qv2BKCFXFBA6d_E6fMQoF3kk/edit?usp=sharing)
 
+## Team Intro
+[![team intro v2](https://img.youtube.com/vi/mUldCkwMCzc/0.jpg)](https://www.youtube.com/watch?v=mUldCkwMCzc)
+
+## Demo
+### Booking
+[![booking](https://img.youtube.com/vi/y3k3G9zZv2Q/0.jpg)](https://www.youtube.com/watch?v=y3k3G9zZv2Q)
+
+### Self Tour
+[![self tour](https://img.youtube.com/vi/rwv1JMOYAu8/0.jpg)](https://www.youtube.com/watch?v=rwv1JMOYAu8)
+
 ## Progress
 
 |Rental Lifecycle | Before-contract | In-contract | After-contract | 
