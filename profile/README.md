@@ -26,7 +26,7 @@ Assume each unit is $1000/Mo.
 Self tour can save 7.2B per year.
 
 ## Potential
-- Enables agents to conduct up to 30 tours per day, maximizing the number of visits and significantly enhancing the likelihood of successful deal closures, without requiring physical presence.
+- Enables agents to conduct up to 30 tours per week, maximizing the number of visits and significantly enhancing the likelihood of successful deal closures, without requiring physical presence.
 - Facilitates remote management for multi-property holders nationwide, enabling efficient and effective property management from any location.
 
 ## Pitch Deck
