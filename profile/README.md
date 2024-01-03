@@ -4,7 +4,7 @@ spaceFlow is a proptech company with a mission to  transform rental income into 
 
 Our platform leverages IoT devices and AI to streamline the entire rental process. In the pre-contract stage, we offer identity verification, secure self tours, background checks, online applications, and eSign capabilities. During the contract, we provide a rent payment system and maintenance ticket system. After the contract, our platform handles room recovery and credit systems, freeing landlords from active involvement and transforming rental income into a truly passive stream.
 
-At spaceFlow, we are committed to revolutionizing the rental industry through cutting-edge technology. Our platform serves as a catalyst for maximizing space utilization and ensuring a seamless rent flow. Join us as we transform the way properties are managed, making space utilization more efficient and rent management an effortless experience.
+At spaceFlow, we are committed to revolutionizing the rental industry through cutting-edge technology. Our platform serves as a catalyst for maximizing space utilization and ensuring a seamless rent flow. We transform the way properties are managed, making space utilization more efficient and rent management an effortless experience.
 
 ## Problem
 Base on Zumper, average room idle time is 42 days.
