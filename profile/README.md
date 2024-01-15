@@ -9,6 +9,9 @@
 | Background Check        |                                          | Web                                          |
 | Sign Contract           | Mobile/Web                               | Web                                          |
 | Pay Deposit             | Mobile/Web                               |                                              |
+| (In-contract Stage)     | ---------------------------------------  | -------------------------------------------- |
+| File Mantainance Ticket | Mobile/Web                               |                                              |
+| Pay Rent                | Mobile/Web                               |                                              |
 
 
 ## Short Intro
