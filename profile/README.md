@@ -1,4 +1,17 @@
-# spaceFlow LLC
+# spaceFlow
+
+## Product - Self Tour
+| Activity/Platform       | Tenant                                   | Landlord                                     |
+| ----------------------- | ---------------------------------------- | -------------------------------------------- |
+| Add new room to Market  |                                          | Web                                          |
+| Book Self Tour          | Mobile/Web                               |                                              |
+| Take Self Tour          | Mobile                                   | Web                                          |
+| Background Check        |                                          | Web                                          |
+| Sign Contract           | Mobile/Web                               | Web                                          |
+| Pay Deposit             | Mobile/Web                               |                                              |
+
+
+## Short Intro
 
 spaceFlow is a proptech company with a mission to  transform rental income into a passive stream using full rental automation. 
 
