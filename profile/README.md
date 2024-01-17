@@ -22,6 +22,10 @@ Our platform leverages IoT devices and AI to streamline the entire rental proces
 
 At spaceFlow, we are committed to revolutionizing the rental industry through cutting-edge technology. Our platform serves as a catalyst for maximizing space utilization and ensuring a seamless rent flow. We transform the way properties are managed, making space utilization more efficient and rent management an effortless experience.
 
+## Target Audience
+![image](https://github.com/spaceFlow-US/.github/assets/20626329/9ead21fb-63de-4f2f-829b-4cca8475cc2a)
+
+
 ## Problem
 Base on Zumper, average room idle time is 42 days.
 
@@ -69,6 +73,7 @@ Self tour can save 7.2B per year.
 |Porjects| Frontier Map Search :fire: <br>  ID Check <br> Self Tour :fire: <br> Background Check <br> eSign | Pay Rent System <br> Maintainence Ticket System <br> Tenant Web App <br> Landlord Web App :fire: | Credit System |
 
 ![image](https://github.com/spaceFlow-US/.github/assets/20626329/1e237faf-43db-4eba-b639-1021af38717d)
+
 
 ## Culture
 - [Fight on](https://www.youtube.com/watch?v=RQ7oArZrQ1s&t=73s&ab_channel=CaliforniasGold)
