@@ -140,6 +140,11 @@ Using their phone, the tenant opens the unique tour link in the web app, which l
 
 Note: This design document provides a high-level overview of the room tour experience. Implementation details, technical specifications, and security measures should be further defined during the development process. 
 
+## Q&A
+Q: Why do you ask tenants to use their phones for a video tour instead of installing a camera in the room?
+
+A: There are several reasons for this approach. Firstly, having a camera in the room can make tenants feel insecure, a feeling that might persist during their stay. Using their phones, tenants can choose specific areas to focus on, and later compare these with other videos. This method also avoids the need for landlords to install additional equipment. Most importantly, it helps tenants feel safer and more in control of their privacy.
+
 ## Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
