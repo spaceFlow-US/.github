@@ -151,12 +151,15 @@ Q: Why do you ask tenants to use their phones for a video tour instead of instal
 A: There are several reasons for this approach. Firstly, having a camera in the room can make tenants feel insecure, a feeling that might persist during their stay. Using their phones, tenants can choose specific areas to focus on, and later compare these with other videos. This method also avoids the need for landlords to install additional equipment. Most importantly, it helps tenants feel safer and more in control of their privacy.
 
 ## Tech Stack
-![React Native](https://img.shields.io/static/v1?style=for-the-badge&message=React+Native&color=61DAFB&logo=React&logoColor=FFFFFF&label=)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff)
-![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=FFCA28&logo=Firebase&logoColor=FFFFFF&label=)
-![Google Cloud](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Cloud&color=4285F4&logo=Google+Cloud&logoColor=FFFFFF&label=)
+
+| Frontend      | API        | Backend        | DB              | Cloud          |
+| ------------- | ---------- | -------------- | --------------- | -------------- |
+| ![React Native](https://img.shields.io/static/v1?style=for-the-badge&message=React+Native&color=61DAFB&logo=React&logoColor=FFFFFF&label=) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Stripe](https://img.shields.io/static/v1?style=for-the-badge&message=Stripe&color=5433FF&logo=Stripe&logoColor=FFFFFF&label=) ![Seam API](https://img.shields.io/static/v1?style=for-the-badge&message=Seam+API&color=00BFFF&logo=Seam&logoColor=FFFFFF&label=) | ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff) ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=) | ![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=FFCA28&logo=Firebase&logoColor=FFFFFF&label=) | ![Google Cloud](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Cloud&color=4285F4&logo=Google+Cloud&logoColor=FFFFFF&label=) |
+
+
+
+
+
 
 
 ## Domain 
