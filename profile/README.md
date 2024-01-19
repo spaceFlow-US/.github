@@ -56,6 +56,14 @@ Self tour can save 7.2B per year.
 ## Team Intro
 [![team intro v2](https://img.youtube.com/vi/mUldCkwMCzc/0.jpg)](https://www.youtube.com/watch?v=mUldCkwMCzc)
 
+| Name                                                            | Role  | Background                                   |
+| --------------------------------------------------------------- | ----- | -------------------------------------------- |
+| [Sung-Fu Han](https://www.linkedin.com/in/sungfuhan/)           |  CEO  | 10y Landlord/SRE/ML Reseacher                |
+| [Yi-Kai Liao](https://www.linkedin.com/in/yi-kailiao/)          |  CTO  | 3y Tenant/Leetcode 1300 solved               |
+| [Nelly Shih](https://www.linkedin.com/in/nellyshih/)            |  UX   | Yahoo UX/Struggle on real estate transparency|
+| [Takuma Takezawa](https://www.linkedin.com/in/takuma-takezawa/) |  SDE  | Airbnb Host                                  |
+
+
 ## Demo
 ### Booking
 [![booking](https://img.youtube.com/vi/y3k3G9zZv2Q/0.jpg)](https://www.youtube.com/watch?v=y3k3G9zZv2Q)
