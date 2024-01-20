@@ -29,6 +29,8 @@ At spaceFlow, we are committed to revolutionizing the rental industry through cu
 ## Problem
 Base on Zumper, average room idle time is 42 days.
 
+Why that long?
+
 Because
 1. Even professional agent can conduct up to 10 room tours per week, not to mention landlords.
 2. Weekdays room tour is 9am - 5pm, but busy tenant are free after 7pm.
