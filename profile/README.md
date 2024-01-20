@@ -28,14 +28,22 @@ At spaceFlow, we are committed to revolutionizing the rental industry through cu
 ## Problem
 Base on Zumper, average room idle time is 42 days.
 
-Why that long?
+Why that long? Because mismatch between tenant and landlord
 
-Because
 1. Even professional agent can conduct up to 10 room tours per week, not to mention landlords.
 2. Weekdays room tour is 9am - 5pm, but busy tenant are free after 7pm.
+3. Self tour is not popular due to trust issue.
 
 ## Solution
-Self tour
+Make  self tour popular
+
+How?
+
+Build the trust bwtween landlord and tenant in before-contract stage by technology:
+1. computer vision supervised for landlord
+2. tenant ID check
+3. tenant credit card registered
+
 
 ## How large the market?
 According to US Census Bureau, there are 24M individual landlord owned rental housing units.
