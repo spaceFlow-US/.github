@@ -26,23 +26,20 @@ At spaceFlow, we are committed to revolutionizing the rental industry through cu
 
 
 ## Problem
-Base on Zumper, average room idle time is 42 days.
-
-Why that long? Because mismatch between tenant and landlord
-
-1. Even professional agent can conduct up to 10 room tours per week, not to mention landlords.
-2. Weekdays room tour is 9am - 5pm, but busy tenant are free after 7pm.
-3. Self tour is not popular due to trust issue.
+According to data from Zumper, the average room in the rental market remains idle for an extended period of 42 days. This inefficiency primarily stems from a mismatch between tenant availability and landlord or agent schedules. Professional agents, handling up to 10 room tours per week, typically operate during standard business hours (9 AM - 5 PM), which conflicts with the schedules of busy tenants who are often only available after 7 PM. Additionally, the concept of self-tours, though convenient, is not widely embraced due to prevailing trust issues.
 
 ## Solution
-Make  self tour popular
+Our product aims to revolutionize the rental market by making self-tours a popular and trusted option.
 
-How?
+How We Achieve This:
 
-Build the trust bwtween landlord and tenant in before-contract stage by technology:
-1. computer vision supervised for landlord
-2. tenant ID check
-3. tenant credit card registered
+We plan to build trust between landlords and tenants in the pre-contract stage through innovative technology. This includes:
+
+- Supervised Computer Vision for Landlords: To provide real-time oversight during self-tours, enhancing security and trust.
+- Rigorous Tenant ID Checks: To ensure the authenticity and reliability of potential tenants.
+- Mandatory Tenant Credit Card Registration: To secure financial accountability and provide assurance to the landlord.
+
+By implementing these technological solutions, we bridge the gap between landlords and tenants, significantly reducing room idle time and streamlining the rental process.
 
 
 ## How large the market?
