@@ -160,11 +160,15 @@ Using their phone, the tenant opens the unique tour link in the web app, which l
 Note: This design document provides a high-level overview of the room tour experience. Implementation details, technical specifications, and security measures should be further defined during the development process. 
 
 ## Q&A
-Q1: Why do you ask tenants to use their phones for a video tour instead of installing a camera in the room?
+**Q1: Why do you ask tenants to use their phones for a video tour instead of installing a camera in the room?**
 
 A: There are several reasons for this approach. Firstly, having a camera in the room can make tenants feel insecure, a feeling that might persist during their stay. Using their phones, tenants can choose specific areas to focus on, and later compare these with other videos. This method also avoids the need for landlords to install additional equipment. Most importantly, it helps tenants feel safer and more in control of their privacy.
 
-Q2: How to make self tour everywhere?
+**Q2: Why prefer physical tours over virtual tours?**
+
+A: Virtual tours like Matterport offer a great preview, but they fall short in capturing the essence of a property. Tenants often need to experience aspects like the neighborhood vibe, natural light, and feel of the space in person before making a commitment. That's why, despite the convenience of virtual tours, physical self-tours remain crucial for final decision-making.
+
+**Q9: How to make self tour everywhere?**
 
 GPT: Making self-guided property tours available everywhere involves a combination of technology, security, and logistical planning. Here's a general strategy to achieve this:
 
