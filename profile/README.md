@@ -113,7 +113,7 @@ To achieve this, I will automate each part in rental life cycle. I've divided th
 
 I firmly believe that automating the entire rental process is feasible, and self tour is last mile. It's surprising that there's no holistic solution available in the market yet. With this conviction, I've decided to take the lead and turn my vision into reality. My mission is to make entire rental process more efficent. Together, we'll make renting a house a true passive income.
 
-I'm thrilled to show that despite not being your typical young, university-dropout founder, I've taken the traditional route - completing my education and gaining years of work experience. Now, I'm ready to chase my dream and start my own company. This dream is a glowing ember within me, and with persistence, it will ignite into a blazing success!
+I'm thrilled to show that despite not being typical young, university-dropout founder, I've taken the traditional route - completing my education and gaining years of work experience. Now, I'm ready to chase my dream and start my own company. This dream is a glowing ember within me, and with persistence, it will ignite into a blazing success!
 
 ## Design Story - Cloud Tour
 Let take Airbnb website as a role model.
