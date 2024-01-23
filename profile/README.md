@@ -160,9 +160,35 @@ Using their phone, the tenant opens the unique tour link in the web app, which l
 Note: This design document provides a high-level overview of the room tour experience. Implementation details, technical specifications, and security measures should be further defined during the development process. 
 
 ## Q&A
-Q: Why do you ask tenants to use their phones for a video tour instead of installing a camera in the room?
+Q1: Why do you ask tenants to use their phones for a video tour instead of installing a camera in the room?
 
 A: There are several reasons for this approach. Firstly, having a camera in the room can make tenants feel insecure, a feeling that might persist during their stay. Using their phones, tenants can choose specific areas to focus on, and later compare these with other videos. This method also avoids the need for landlords to install additional equipment. Most importantly, it helps tenants feel safer and more in control of their privacy.
+
+Q2: How to make self tour everywhere?
+
+GPT: Making self-guided property tours available everywhere involves a combination of technology, security, and logistical planning. Here's a general strategy to achieve this:
+
+1. Develop a Reliable Technology Platform: Create or utilize an existing platform that allows potential tenants to schedule and access properties without needing a physical agent present. This platform should handle scheduling, identity verification, and secure access.
+
+2. Implement Secure Access Systems: Install smart locks or lockbox systems that can be controlled remotely. These systems should allow access only to verified individuals and at the scheduled times.
+
+3. Identity Verification: Ensure that all users of the self-tour service undergo a robust identity verification process. This could include submitting government-issued ID and a current photograph, and possibly credit card information for security purposes.
+
+4. Real-time Monitoring: Use technology like computer vision or real-time surveillance to monitor tours. This ensures safety for the property and can provide landlords with peace of mind.
+
+5. Feedback and Reporting Mechanisms: After the tour, have an automated system to collect feedback or reports from the potential tenant. This can help in improving the experience and addressing any issues immediately.
+
+6. Marketing and Partnerships: Collaborate with property listing sites, real estate agents, and property management companies to offer self-tour options as a part of their services.
+
+7. Legal Compliance and Insurance: Ensure all activities comply with local real estate laws and regulations. Also, consider insurance to cover any liabilities that might arise from self-tours.
+
+8. Customer Support: Provide excellent customer support to handle any issues, questions, or emergencies during the self-tour.
+
+9. Continuous Improvement: Collect data and feedback to continuously improve the self-tour experience, security, and technology.
+
+10. Scalability Plan: Have a clear plan for scaling the service, including expanding to new locations, managing increasing numbers of tours, and ensuring consistent quality and security as you grow.
+
+Implementing self-tours everywhere is a complex task that requires careful consideration of security, technology, and user experience, but with the right approach, it can significantly enhance the property rental process.
 
 ## Tech Stack
 
