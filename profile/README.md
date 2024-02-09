@@ -15,7 +15,7 @@
 
 ## Short Intro
 
-spaceFlow is a proptech company with a mission to  transform rental income into a passive stream using full rental automation. 
+spaceFlow is a proptech company with vision to make remote property management possible. <!-- transform rental income into a passive stream using full rental automation. -->
 
 Our platform leverages IoT devices and AI to streamline the entire rental process. In the pre-contract stage, we offer identity verification, secure self tours, background checks, online applications, and eSign capabilities. During the contract, we provide a rent payment system and maintenance ticket system. After the contract, our platform handles room recovery and credit systems, freeing landlords from active involvement and transforming rental income into a truly passive stream.
 
