@@ -17,7 +17,9 @@
 
 spaceFlow is a proptech company with vision to make remote property management possible. <!-- transform rental income into a passive stream using full rental automation. -->
 
-Our platform leverages IoT devices and AI to streamline the entire rental process. In the pre-contract stage, we offer identity verification, secure self tours, background checks, online applications, and eSign capabilities. During the contract, we provide a rent payment system and maintenance ticket system. After the contract, our platform handles room recovery and credit systems, freeing landlords from active involvement and transforming rental income into a truly passive stream.
+Traditional property management software like AppFolio, DoorLoop, TurboTenant, and Hemlane targets the experiences of landlords and property managers. However, the fact that still 50% of owners are self-managing indicates these software options aren't meeting all needs. Unlike them, we aim to optimize the rental experience for qualified tenants (those who are ID-checked, have credit cards on file, credit scores above 700, no criminal records, verified income, and no eviction history). Qualified tenants deserve an expedited rental experience. High-quality self-governed tenants can be more attractive to landlords. Moreover, qualified tenants possess firsthand information about the house, effectively acting as a single-unit property manager for the landlord, bringing them peace of mind. Our platform is designed to empower tenants with self-governance capabilities to build strong trust with landlords and make remote property management feasible.
+
+To implement an express rental experience for qualified tenants, we have built a comprehensive one-time verification process. After verification, in before-contrage stage, tenants can enjoy self-guided tours (smart lock + computer vision), video chats with landlords, and expedited applications to rent their dream house faster. As tenants move from city to city, they can build their rental history on our platform and easily transition from one house to another. During in-contract stage, our maintenance system helps tenants become professional single-unit property managers for landlords, keeping autonomy, maintaining good status, paying rent on time, and staying informed of any changes.
 
 At spaceFlow, we are committed to revolutionizing the rental industry through cutting-edge technology. Our platform serves as a catalyst for maximizing space utilization and ensuring a seamless rent flow. We transform the way properties are managed, making space utilization more efficient and rent management an effortless experience.
 
@@ -169,6 +171,11 @@ A: There are several reasons for this approach. Firstly, having a camera in the 
 **Q2: Why prefer physical tours over virtual tours?**
 
 A: Virtual tours like Matterport offer a great preview, but they fall short in capturing the essence of a property. Tenants often need to experience aspects like the neighborhood vibe, natural light, and feel of the space in person before making a commitment. That's why, despite the convenience of virtual tours, physical self-tours remain crucial for final decision-making.
+
+** Q3: What is the different between spaceFlow and other property management software such as appfolio, doorloops, turbotenant and hemlane?
+
+A: spaceFlow distinguishes itself in the property management sector by prioritizing the rental experience of highly qualified tenants. While traditional software solutions cater to landlords and property managers, 50% property owners still choose self-management, indicating a gap that existing platforms do not address. spaceFlow aims to bridge this gap by offering a streamlined experience for tenants who meet strict qualifications, including ID verification, credit card linkage, a credit score above 700, a clean criminal record, verified income, and no history of eviction. By focusing on these tenants, who are effectively single-unit property managers, spaceFlow enhances their autonomy, strengthening trust with landlords and facilitating remote property management. This shift to tenant-centered features promises to attract landlords by providing them the assurance of a responsible occupant and a hands-off management approach.
+
 
 **Q9: How to make self tour everywhere?**
 
