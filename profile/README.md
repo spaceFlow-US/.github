@@ -16,13 +16,13 @@
 
 ## Short Intro
 
-spaceFlow is a proptech company with vision to make remote property management possible. <!-- transform rental income into a passive stream using full rental automation. -->
+spaceFlow is redefining property management through innovation in proptech. Our mission: to make remote property management not just a possibility, but a seamless reality.
 
-Traditional property management software like AppFolio, DoorLoop, TurboTenant, and Hemlane targets the experiences of landlords and property managers. However, the fact that still 50% of owners are self-managing indicates these software options aren't meeting all needs. Unlike them, we aim to optimize the rental experience for qualified tenants (those who are ID-checked, have credit cards on file, credit scores above 700, no criminal records, verified income, and no eviction history). Qualified tenants deserve an expedited rental experience. High-quality tenants can be more attractive to landlords. Moreover, qualified tenants possess firsthand information about the house, effectively acting as a single-unit property manager for the landlord, bringing them peace of mind. Our platform is designed to empower tenants with self-governance capabilities to build strong trust with landlords and make remote property management feasible.
+We understand that high-quality tenants are the backbone of a thriving rental market. At spaceFlow, we enable these tenants to enjoy an express rental experience, deserving of their status. Our platform offers a comprehensive one-time verification process, streamlining their journey from searching to settling into their new home with features like self-guided tours powered by IoT and computer vision, direct video communication with landlords, and swift application processes. This efficiency doesn't just attract tenants; it transforms them into invaluable assets for landlords, acting as reliable, single-unit property managers empowered by spaceFlow's maintenance system.
 
-To implement an express rental experience for qualified tenants, we have built a comprehensive one-time verification process. After verification, in before-contrage stage, tenants can enjoy self-guided tours (IoT devices + computer vision), video chats with landlords, and expedited applications to rent their dream house faster. As tenants move from city to city, they can build their rental history on our platform and easily transition from one house to another. During in-contract stage, our maintenance system helps tenants become professional single-unit property managers for landlords, keeping autonomy, maintaining good status, paying rent on time, and staying informed of any changes.
+With just a few clicks to list a property and a monthly platform fee, landlord gain access to a pool of qualified tenants. Our automation platform will guide qualified tenants to handle the rest.
 
-At spaceFlow, we are committed to revolutionizing the rental industry through cutting-edge technology. Remote management can maximize space utilization and ensure a seamless rent flow. We transform the way properties are managed.
+Join us at spaceFlow, where we leverage cutting-edge technology to streamline the rental process, build strong landlord-tenant relationships, and pave the way for the future of remote property management. Transforming the rental industry, one property at a time.
 
 ## Target Audience
 ![image](https://github.com/spaceFlow-US/.github/assets/20626329/d977294b-8132-4a19-bce5-bbdb617f5576)
@@ -119,6 +119,62 @@ I firmly believe that automating the entire rental process is feasible, and self
 
 I'm thrilled to show that despite not being typical young, university-dropout founder, I've taken the traditional route - completing my education and gaining years of work experience. Now, I'm ready to chase my dream and start my own company. This dream is a glowing ember within me, and with persistence, it will ignite into a blazing success!
 
+## Q&A
+**Q1: Why do you ask tenants to use their phones for a video tour instead of installing a camera in the room?**
+
+A: There are several reasons for this approach. Firstly, having a camera in the room can make tenants feel insecure, a feeling that might persist during their stay. Using their phones, tenants can choose specific areas to focus on, and later compare these with other videos. This method also avoids the need for landlords to install additional equipment. Most importantly, it helps tenants feel safer and more in control of their privacy.
+
+**Q2: Why prefer physical tours over virtual tours?**
+
+A: Virtual tours like Matterport offer a great preview, but they fall short in capturing the essence of a property. Tenants often need to experience aspects like the neighborhood vibe, natural light, and feel of the space in person before making a commitment. That's why, despite the convenience of virtual tours, physical self-tours remain crucial for final decision-making.
+
+**Q3: What is the different between spaceFlow and other property management software such as appfolio, doorloops, turbotenant and hemlane?**
+
+A: spaceFlow distinguishes itself in the property management sector by prioritizing the rental experience of highly qualified tenants. While traditional software solutions cater to landlords and property managers, 50% property owners still choose self-management, indicating a gap that existing platforms do not address. spaceFlow believe qualify tenants deserve express rental experience. Qaulified tenants are who meet strict qualifications, including ID verification, credit card linkage, a credit score above 700, a clean criminal record, verified income, and no history of eviction. By focusing on these tenants, who are effectively single-unit property managers, spaceFlow enhances their autonomy, strengthening trust with landlords and facilitating remote property management. This shift to tenant-centered features promises to attract landlords by providing them the assurance of a responsible occupant and a hands-off management approach.
+
+**Q4: Why there is so many competitor f**
+
+**Q9: How to make self tour everywhere?**
+
+GPT: Making self-guided property tours available everywhere involves a combination of technology, security, and logistical planning. Here's a general strategy to achieve this:
+
+1. Develop a Reliable Technology Platform: Create or utilize an existing platform that allows potential tenants to schedule and access properties without needing a physical agent present. This platform should handle scheduling, identity verification, and secure access.
+
+2. Implement Secure Access Systems: Install smart locks or lockbox systems that can be controlled remotely. These systems should allow access only to verified individuals and at the scheduled times.
+
+3. Identity Verification: Ensure that all users of the self-tour service undergo a robust identity verification process. This could include submitting government-issued ID and a current photograph, and possibly credit card information for security purposes.
+
+4. Real-time Monitoring: Use technology like computer vision or real-time surveillance to monitor tours. This ensures safety for the property and can provide landlords with peace of mind.
+
+5. Feedback and Reporting Mechanisms: After the tour, have an automated system to collect feedback or reports from the potential tenant. This can help in improving the experience and addressing any issues immediately.
+
+6. Marketing and Partnerships: Collaborate with property listing sites, real estate agents, and property management companies to offer self-tour options as a part of their services.
+
+7. Legal Compliance and Insurance: Ensure all activities comply with local real estate laws and regulations. Also, consider insurance to cover any liabilities that might arise from self-tours.
+
+8. Customer Support: Provide excellent customer support to handle any issues, questions, or emergencies during the self-tour.
+
+9. Continuous Improvement: Collect data and feedback to continuously improve the self-tour experience, security, and technology.
+
+10. Scalability Plan: Have a clear plan for scaling the service, including expanding to new locations, managing increasing numbers of tours, and ensuring consistent quality and security as you grow.
+
+Implementing self-tours everywhere is a complex task that requires careful consideration of security, technology, and user experience, but with the right approach, it can significantly enhance the property rental process.
+
+## Tech Stack
+
+| Frontend      | API        | Backend        | DB              | Cloud          |
+| ------------- | ---------- | -------------- | --------------- | -------------- |
+| ![React Native](https://img.shields.io/static/v1?style=for-the-badge&message=React+Native&color=61DAFB&logo=React&logoColor=FFFFFF&label=) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Stripe](https://img.shields.io/static/v1?style=for-the-badge&message=Stripe&color=5433FF&logo=Stripe&logoColor=FFFFFF&label=) ![Seam API](https://img.shields.io/static/v1?style=for-the-badge&message=Seam+API&color=00BFFF&logo=Seam&logoColor=FFFFFF&label=) | ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff) ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=) | ![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=FFCA28&logo=Firebase&logoColor=FFFFFF&label=) | ![Google Cloud](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Cloud&color=4285F4&logo=Google+Cloud&logoColor=FFFFFF&label=) |
+
+
+
+## Domain 
+[spaceflow.in](https://www.spaceflow.in)
+
+> [spaceflow.io](https://spaceflow.io) is taken by a [real estate company](https://www.linkedin.com/company/spaceflow/?originalSubdomain=cz) in Prague which has the similar mission with us. However, they focus on in-contract management. On the other hand, we focus on entire rental life cycle.
+
+
+```
 ## Design Story - Cloud Tour
 Let take Airbnb website as a role model.
 
@@ -165,61 +221,5 @@ Using their phone, the tenant opens the unique tour link in the web app, which l
 
 Note: This design document provides a high-level overview of the room tour experience. Implementation details, technical specifications, and security measures should be further defined during the development process. 
 
-## Q&A
-**Q1: Why do you ask tenants to use their phones for a video tour instead of installing a camera in the room?**
-
-A: There are several reasons for this approach. Firstly, having a camera in the room can make tenants feel insecure, a feeling that might persist during their stay. Using their phones, tenants can choose specific areas to focus on, and later compare these with other videos. This method also avoids the need for landlords to install additional equipment. Most importantly, it helps tenants feel safer and more in control of their privacy.
-
-**Q2: Why prefer physical tours over virtual tours?**
-
-A: Virtual tours like Matterport offer a great preview, but they fall short in capturing the essence of a property. Tenants often need to experience aspects like the neighborhood vibe, natural light, and feel of the space in person before making a commitment. That's why, despite the convenience of virtual tours, physical self-tours remain crucial for final decision-making.
-
-** Q3: What is the different between spaceFlow and other property management software such as appfolio, doorloops, turbotenant and hemlane?
-
-A: spaceFlow distinguishes itself in the property management sector by prioritizing the rental experience of highly qualified tenants. While traditional software solutions cater to landlords and property managers, 50% property owners still choose self-management, indicating a gap that existing platforms do not address. spaceFlow aims to bridge this gap by offering a streamlined experience for tenants who meet strict qualifications, including ID verification, credit card linkage, a credit score above 700, a clean criminal record, verified income, and no history of eviction. By focusing on these tenants, who are effectively single-unit property managers, spaceFlow enhances their autonomy, strengthening trust with landlords and facilitating remote property management. This shift to tenant-centered features promises to attract landlords by providing them the assurance of a responsible occupant and a hands-off management approach.
-
-
-**Q9: How to make self tour everywhere?**
-
-GPT: Making self-guided property tours available everywhere involves a combination of technology, security, and logistical planning. Here's a general strategy to achieve this:
-
-1. Develop a Reliable Technology Platform: Create or utilize an existing platform that allows potential tenants to schedule and access properties without needing a physical agent present. This platform should handle scheduling, identity verification, and secure access.
-
-2. Implement Secure Access Systems: Install smart locks or lockbox systems that can be controlled remotely. These systems should allow access only to verified individuals and at the scheduled times.
-
-3. Identity Verification: Ensure that all users of the self-tour service undergo a robust identity verification process. This could include submitting government-issued ID and a current photograph, and possibly credit card information for security purposes.
-
-4. Real-time Monitoring: Use technology like computer vision or real-time surveillance to monitor tours. This ensures safety for the property and can provide landlords with peace of mind.
-
-5. Feedback and Reporting Mechanisms: After the tour, have an automated system to collect feedback or reports from the potential tenant. This can help in improving the experience and addressing any issues immediately.
-
-6. Marketing and Partnerships: Collaborate with property listing sites, real estate agents, and property management companies to offer self-tour options as a part of their services.
-
-7. Legal Compliance and Insurance: Ensure all activities comply with local real estate laws and regulations. Also, consider insurance to cover any liabilities that might arise from self-tours.
-
-8. Customer Support: Provide excellent customer support to handle any issues, questions, or emergencies during the self-tour.
-
-9. Continuous Improvement: Collect data and feedback to continuously improve the self-tour experience, security, and technology.
-
-10. Scalability Plan: Have a clear plan for scaling the service, including expanding to new locations, managing increasing numbers of tours, and ensuring consistent quality and security as you grow.
-
-Implementing self-tours everywhere is a complex task that requires careful consideration of security, technology, and user experience, but with the right approach, it can significantly enhance the property rental process.
-
-## Tech Stack
-
-| Frontend      | API        | Backend        | DB              | Cloud          |
-| ------------- | ---------- | -------------- | --------------- | -------------- |
-| ![React Native](https://img.shields.io/static/v1?style=for-the-badge&message=React+Native&color=61DAFB&logo=React&logoColor=FFFFFF&label=) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Stripe](https://img.shields.io/static/v1?style=for-the-badge&message=Stripe&color=5433FF&logo=Stripe&logoColor=FFFFFF&label=) ![Seam API](https://img.shields.io/static/v1?style=for-the-badge&message=Seam+API&color=00BFFF&logo=Seam&logoColor=FFFFFF&label=) | ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff) ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=) | ![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=FFCA28&logo=Firebase&logoColor=FFFFFF&label=) | ![Google Cloud](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Cloud&color=4285F4&logo=Google+Cloud&logoColor=FFFFFF&label=) |
-
-
-
-
-
-
-
-## Domain 
-[spaceflow.in](https://www.spaceflow.in)
-
-> [spaceflow.io](https://spaceflow.io) is taken by a [real estate company](https://www.linkedin.com/company/spaceflow/?originalSubdomain=cz) in Prague which has the similar mission with us. However, they focus on in-contract management. On the other hand, we focus on entire rental life cycle.
-
+```
 
