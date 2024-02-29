@@ -25,7 +25,8 @@ To implement an express rental experience for qualified tenants, we have built a
 At spaceFlow, we are committed to revolutionizing the rental industry through cutting-edge technology. Remote management can maximize space utilization and ensure a seamless rent flow. We transform the way properties are managed.
 
 ## Target Audience
-![image](https://github.com/spaceFlow-US/.github/assets/20626329/9ead21fb-63de-4f2f-829b-4cca8475cc2a)
+![image](https://github.com/spaceFlow-US/.github/assets/20626329/d977294b-8132-4a19-bce5-bbdb617f5576)
+
 
 
 ## Problem
