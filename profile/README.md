@@ -16,7 +16,7 @@
 
 ## Short Intro
 
-spaceFlow is redefining property management through innovation in proptech. Our mission: to make remote property management not just a possibility, but a seamless reality.
+spaceFlow is redefining property management through innovation in proptech. Our mission: to make remote property management a reality.
 
 We understand that high-quality tenants are the backbone of a thriving rental market. At spaceFlow, we enable these tenants to enjoy an express rental experience, deserving of their status. Our platform offers a comprehensive one-time verification process, streamlining their journey from searching to settling into their new home with features like self-guided tours powered by IoT and computer vision, direct video communication with landlords, and swift application processes. This efficiency doesn't just attract tenants; it transforms them into invaluable assets for landlords, acting as reliable, single-unit property managers empowered by spaceFlow's maintenance system.
 
