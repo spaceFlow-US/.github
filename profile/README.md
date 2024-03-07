@@ -74,15 +74,18 @@ Self tour can save 7.2B per year.
 | [Takuma Takezawa](https://www.linkedin.com/in/takuma-takezawa/) |  SDE  | Airbnb Host                                  |
 
 
-## Demo
-### Booking
-[![booking](https://img.youtube.com/vi/y3k3G9zZv2Q/0.jpg)](https://www.youtube.com/watch?v=y3k3G9zZv2Q)
+## User Flow
 
-### Unlock Smart Lock
-[![booking](https://img.youtube.com/vi/X2X61lqbVdc/0.jpg)](https://www.youtube.com/watch?v=X2X61lqbVdc)
+### Tenant
+**[Book tour](https://youtu.be/UOzoPsOO0no)**: Login -> product page -> (phone/ID/Credit card verification) ->Book tour -> got approved 
 
-### Self Tour
-[![self tour](https://img.youtube.com/vi/rwv1JMOYAu8/0.jpg)](https://www.youtube.com/watch?v=rwv1JMOYAu8)
+### Landlord
+**Add room**: Login -> Property Page -> upload room info -> grant smart lock permission -> room added
+
+**[Approve Tour](https://youtu.be/pFf5CD-o4cg)**: Login -> schedule page -> approve or deny inquired tour
+
+### Tenant & Landlord
+**[Cloud tour](https://youtu.be/lp7MuM7jdvM)**: schedule page -> cloud tour -> unlock -> tour completed -> video upload
 
 ## Progress
 
@@ -132,8 +135,6 @@ A: Virtual tours like Matterport offer a great preview, but they fall short in c
 
 A: spaceFlow distinguishes itself in the property management sector by prioritizing the rental experience of highly qualified tenants. While traditional software solutions cater to landlords and property managers, 50% property owners still choose self-management, indicating a gap that existing platforms do not address. spaceFlow believe qualify tenants deserve express rental experience. Qaulified tenants are who meet strict qualifications, including ID verification, credit card linkage, a credit score above 700, a clean criminal record, verified income, and no history of eviction. By focusing on these tenants, who are effectively single-unit property managers, spaceFlow enhances their autonomy, strengthening trust with landlords and facilitating remote property management. This shift to tenant-centered features promises to attract landlords by providing them the assurance of a responsible occupant and a hands-off management approach.
 
-**Q4: Why there is so many competitor f**
-
 **Q9: How to make self tour everywhere?**
 
 GPT: Making self-guided property tours available everywhere involves a combination of technology, security, and logistical planning. Here's a general strategy to achieve this:
@@ -174,7 +175,7 @@ Implementing self-tours everywhere is a complex task that requires careful consi
 > [spaceflow.io](https://spaceflow.io) is taken by a [real estate company](https://www.linkedin.com/company/spaceflow/?originalSubdomain=cz) in Prague which has the similar mission with us. However, they focus on in-contract management. On the other hand, we focus on entire rental life cycle.
 
 
-```
+<!-- 
 ## Design Story - Cloud Tour
 Let take Airbnb website as a role model.
 
@@ -221,5 +222,6 @@ Using their phone, the tenant opens the unique tour link in the web app, which l
 
 Note: This design document provides a high-level overview of the room tour experience. Implementation details, technical specifications, and security measures should be further defined during the development process. 
 
-```
+-->
+
 
