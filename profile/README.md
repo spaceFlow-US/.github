@@ -102,6 +102,13 @@ Self tour can save 7.2B per year.
 - Curiosity
 - Passion
 
+## Design Principles
+- SOLID
+- DRY (Don't Repeat Yourself)
+- KISS (Keep It Simple, Stupid)
+- YAGNI (You Aren't Gonna Need It)
+- Refactor Regularly
+
 ## Motivation
 
 My name is Sung-Fu Han, and I've been a software engineer and part-time landlord in Taiwan for the past 10 years. I manage properties scattered across Taipei City, New Taipei City, and Kaohsiung. However, the challenges of in-person property tours have led me to embark on an exciting new venture.
