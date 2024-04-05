@@ -6,15 +6,17 @@ https://tour.getspaceflow.com
 ## Services
 | Activity/Platform       | Tenant                                   | Landlord                                     |
 | ----------------------- | ---------------------------------------- | -------------------------------------------- |
-| Add new room to Market  |                                          | Web                                          |
-| Verification            | Web                                      | Web                                          |
-| Book Self Tour          | Mobile/Web                               |                                              |
-| Take Self Tour          | Mobile                                   | Web                                          |
-| Background Check        |                                          | Web                                          |
-| Sign Contract           | Mobile/Web                               | Web                                          |
-| Pay Deposit             | Mobile/Web                               |                                              |
-| File Mantainance Ticket | Mobile/Web                               |                                              |
-| Pay Rent                | Mobile/Web                               |                                              |
+| Add new room to Market  |                                          | ✅                                           |
+| ID Verification         | ✅                                       |                                              |
+| Book Self Tour          | ✅ Book Self tour                        | ✅ Approve/Decline Self tour                 |
+| Video Chat during Tour  | ✅                                       | ✅ Remote Unlock Door                        |
+| Video Tour Diary        | <li> - [ ] </li>                         |                                              |
+| CV Tour Copilot         |                                          | <li> - [ ] </li>                             |
+| CV Tour Autopilot       |                                          | <li> - [ ] </li>                             |
+| Background Check        | <li> - [ ] </li>                         |                                              |
+| Contract eSign          | <li> - [ ] </li>                         | <li> - [ ] </li>                             |
+| Pay Deposit/Rent        | <li> - [ ] </li>                         |                                              |
+| File Mantainance Ticket | <li> - [ ] </li>                         |                                              |
 
 ## User Flow
 
