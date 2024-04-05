@@ -1,6 +1,9 @@
 # spaceFlow
 
-## Product - Self Tour
+## Platform
+https://tour.getspaceflow.com
+
+## Services
 | Activity/Platform       | Tenant                                   | Landlord                                     |
 | ----------------------- | ---------------------------------------- | -------------------------------------------- |
 | Add new room to Market  |                                          | Web                                          |
@@ -176,13 +179,15 @@ Implementing self-tours everywhere is a complex task that requires careful consi
 
 
 
+
+<!-- 
+
 ## Domain 
 [spaceflow.in](https://www.spaceflow.in)
 
 > [spaceflow.io](https://spaceflow.io) is taken by a [real estate company](https://www.linkedin.com/company/spaceflow/?originalSubdomain=cz) in Prague which has the similar mission with us. However, they focus on in-contract management. On the other hand, we focus on entire rental life cycle.
 
 
-<!-- 
 ## Design Story - Cloud Tour
 Let take Airbnb website as a role model.
 
