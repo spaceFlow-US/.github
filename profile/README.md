@@ -1,9 +1,9 @@
 # spaceFlow
 
-## Platform
-https://tour.getspaceflow.com
-
 ## Services
+
+:point_right: https://tour.getspaceflow.com
+
 | Activity/Platform       | Tenant                                   | Landlord                                     |
 | ----------------------- | ---------------------------------------- | -------------------------------------------- |
 | Add new room to Market  |                                          | ✅                                           |
