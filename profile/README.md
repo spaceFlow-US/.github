@@ -9,8 +9,8 @@
 | Add new room                |                                          | ✅                                           |
 | Add Smart Lock              |                                          | ✅                                           |
 | ID Verification             | ✅                                       |                                              |
-| Self Tour                   | ✅ Book                                  | ✅ Approve/Decline                           |
-| Video Chat during Tour      | ✅                                       | ✅ Remote Unlock Door                        |
+| Schedule Self Tour          | ✅ [Book](https://youtu.be/UOzoPsOO0no)  | ✅ [Approve](https://youtu.be/pFf5CD-o4cg)   |
+| [Video Chat during Tour](https://youtu.be/lp7MuM7jdvM)     | ✅                                        | ✅ Remote Unlock Door                       |
 | Video Tour Diary            | <li> - [ ] </li>                         |                                              |
 | CV Tour Copilot             |                                          | <li> - [ ] </li>                             |
 | CV Tour Autopilot           |                                          | <li> - [ ] </li>                             |
@@ -18,20 +18,6 @@
 | Contract eSign              | <li> - [ ] </li>                         | <li> - [ ] </li>                             |
 | Pay Deposit/Rent            | <li> - [ ] </li>                         |                                              |
 | File Mantainance Ticket     | <li> - [ ] </li>                         |                                              |
-
-## User Flow
-
-### Tenant
-**[Book tour](https://youtu.be/UOzoPsOO0no)**: Login -> product page -> (phone/ID/Credit card verification) ->Book tour -> got approved 
-
-### Landlord
-**Add room**: Login -> Property Page -> upload room info -> grant smart lock permission -> room added
-
-**[Approve Tour](https://youtu.be/pFf5CD-o4cg)**: Login -> schedule page -> approve or deny inquired tour
-
-### Tenant & Landlord
-**[Cloud tour](https://youtu.be/lp7MuM7jdvM)**: schedule page -> cloud tour -> unlock -> tour completed -> video upload
-
 
 ## Short Intro
 
