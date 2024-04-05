@@ -1,7 +1,5 @@
 # spaceFlow
 
-## Services
-
 :point_right: https://tour.getspaceflow.com
 
 | Activity/Platform           | Tenant                                   | Landlord                                     |
