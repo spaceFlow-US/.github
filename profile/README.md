@@ -7,9 +7,9 @@
 | Activity/Platform           | Tenant                                   | Landlord                                     |
 | -----------------------     | ---------------------------------------- | -------------------------------------------- |
 | Add new room                |                                          | ✅                                           |
-| Add Smart Lock              |                                     | ✅                                           |
+| Add Smart Lock              |                                          | ✅                                           |
 | ID Verification             | ✅                                       |                                              |
-| Book Self Tour              | ✅ Book Self tour                        | ✅ Approve/Decline Self tour                 |
+| Self Tour                   | ✅ Book                                  | ✅ Approve/Decline                           |
 | Video Chat during Tour      | ✅                                       | ✅ Remote Unlock Door                        |
 | Video Tour Diary            | <li> - [ ] </li>                         |                                              |
 | CV Tour Copilot             |                                          | <li> - [ ] </li>                             |
