@@ -9,6 +9,7 @@
 | Add new room                |                                          | ✅                                           |
 | Add Smart Lock              |                                          | ✅                                           |
 | ID Verification             | ✅                                       |                                              |
+| Credit Score Precheck       | <li> - [ ] </li>                         |                                              |
 | Schedule Self Tour          | ✅ [Book](https://youtu.be/UOzoPsOO0no)  | ✅ [Approve](https://youtu.be/pFf5CD-o4cg)   |
 | [Video Chat during Tour](https://youtu.be/lp7MuM7jdvM)     | ✅                                        | ✅ Remote Unlock Door                       |
 | Video Tour Diary            | <li> - [ ] </li>                         |                                              |
