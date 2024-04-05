@@ -16,6 +16,19 @@ https://tour.getspaceflow.com
 | File Mantainance Ticket | Mobile/Web                               |                                              |
 | Pay Rent                | Mobile/Web                               |                                              |
 
+## User Flow
+
+### Tenant
+**[Book tour](https://youtu.be/UOzoPsOO0no)**: Login -> product page -> (phone/ID/Credit card verification) ->Book tour -> got approved 
+
+### Landlord
+**Add room**: Login -> Property Page -> upload room info -> grant smart lock permission -> room added
+
+**[Approve Tour](https://youtu.be/pFf5CD-o4cg)**: Login -> schedule page -> approve or deny inquired tour
+
+### Tenant & Landlord
+**[Cloud tour](https://youtu.be/lp7MuM7jdvM)**: schedule page -> cloud tour -> unlock -> tour completed -> video upload
+
 
 ## Short Intro
 
@@ -75,28 +88,6 @@ Self tour can save 7.2B per year.
 | [Yi-Kai Liao](https://www.linkedin.com/in/yi-kailiao/)          |  CTO  | 3y Tenant/Leetcode 1300 solved               |
 | [Nelly Shih](https://www.linkedin.com/in/nellyshih/)            |  UX   | Yahoo UX/Struggle on real estate transparency|
 | [Takuma Takezawa](https://www.linkedin.com/in/takuma-takezawa/) |  SDE  | Airbnb Host                                  |
-
-
-## User Flow
-
-### Tenant
-**[Book tour](https://youtu.be/UOzoPsOO0no)**: Login -> product page -> (phone/ID/Credit card verification) ->Book tour -> got approved 
-
-### Landlord
-**Add room**: Login -> Property Page -> upload room info -> grant smart lock permission -> room added
-
-**[Approve Tour](https://youtu.be/pFf5CD-o4cg)**: Login -> schedule page -> approve or deny inquired tour
-
-### Tenant & Landlord
-**[Cloud tour](https://youtu.be/lp7MuM7jdvM)**: schedule page -> cloud tour -> unlock -> tour completed -> video upload
-
-## Progress
-
-|Rental Lifecycle | Before-contract | In-contract | After-contract | 
-|-|-|-|-|
-|Porjects| Frontier Map Search :fire: <br>  ID Check <br> Self Tour :fire: <br> Background Check <br> eSign | Pay Rent System <br> Maintainence Ticket System <br> Tenant Web App <br> Landlord Web App :fire: | Credit System |
-
-![image](https://github.com/spaceFlow-US/.github/assets/20626329/1e237faf-43db-4eba-b639-1021af38717d)
 
 
 ## Culture
@@ -181,6 +172,15 @@ Implementing self-tours everywhere is a complex task that requires careful consi
 
 
 <!-- 
+
+## Progress
+
+|Rental Lifecycle | Before-contract | In-contract | After-contract | 
+|-|-|-|-|
+|Porjects| Frontier Map Search :fire: <br>  ID Check <br> Self Tour :fire: <br> Background Check <br> eSign | Pay Rent System <br> Maintainence Ticket System <br> Tenant Web App <br> Landlord Web App :fire: | Credit System |
+
+![image](https://github.com/spaceFlow-US/.github/assets/20626329/1e237faf-43db-4eba-b639-1021af38717d)
+
 
 ## Domain 
 [spaceflow.in](https://www.spaceflow.in)
