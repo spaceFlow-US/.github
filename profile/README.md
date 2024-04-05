@@ -4,19 +4,20 @@
 
 :point_right: https://tour.getspaceflow.com
 
-| Activity/Platform       | Tenant                                   | Landlord                                     |
-| ----------------------- | ---------------------------------------- | -------------------------------------------- |
-| Add new room to Market  |                                          | ✅                                           |
-| ID Verification         | ✅                                       |                                              |
-| Book Self Tour          | ✅ Book Self tour                        | ✅ Approve/Decline Self tour                 |
-| Video Chat during Tour  | ✅                                       | ✅ Remote Unlock Door                        |
-| Video Tour Diary        | <li> - [ ] </li>                         |                                              |
-| CV Tour Copilot         |                                          | <li> - [ ] </li>                             |
-| CV Tour Autopilot       |                                          | <li> - [ ] </li>                             |
-| Background Check        | <li> - [ ] </li>                         |                                              |
-| Contract eSign          | <li> - [ ] </li>                         | <li> - [ ] </li>                             |
-| Pay Deposit/Rent        | <li> - [ ] </li>                         |                                              |
-| File Mantainance Ticket | <li> - [ ] </li>                         |                                              |
+| Activity/Platform           | Tenant                                   | Landlord                                     |
+| -----------------------     | ---------------------------------------- | -------------------------------------------- |
+| Add new room                |                                          | ✅                                           |
+| Add Smart Lock              |                                     | ✅                                           |
+| ID Verification             | ✅                                       |                                              |
+| Book Self Tour              | ✅ Book Self tour                        | ✅ Approve/Decline Self tour                 |
+| Video Chat during Tour      | ✅                                       | ✅ Remote Unlock Door                        |
+| Video Tour Diary            | <li> - [ ] </li>                         |                                              |
+| CV Tour Copilot             |                                          | <li> - [ ] </li>                             |
+| CV Tour Autopilot           |                                          | <li> - [ ] </li>                             |
+| Background Check            | <li> - [ ] </li>                         |                                              |
+| Contract eSign              | <li> - [ ] </li>                         | <li> - [ ] </li>                             |
+| Pay Deposit/Rent            | <li> - [ ] </li>                         |                                              |
+| File Mantainance Ticket     | <li> - [ ] </li>                         |                                              |
 
 ## User Flow
 
