@@ -18,6 +18,11 @@
 | Pay Deposit/Rent            | <li> - [ ] </li>                         |                                              |
 | File Mantainance Ticket     | <li> - [ ] </li>                         |                                              |
 
+## How spaceFLow work
+![image](https://github.com/spaceFlow-US/.github/assets/20626329/f0900ae2-e740-4ed0-8192-e8ff58fcc204)
+
+
+
 ## Short Intro
 
 spaceFlow is redefining property management through innovation in proptech. Our mission: to make remote property management a reality.
