@@ -120,10 +120,6 @@ The entire market becomes more efficient.
   - Opportunity for expansion of self-tour service.
 
 
-## Pitch Deck
-- [Sheet](https://docs.google.com/spreadsheets/d/1BViheaBCrXD0x2fArpVnu0dqRzkXZJQ4UsFLsZ8C3Y8/edit?usp=sharing)
-- [Slide](https://docs.google.com/presentation/d/1mOHJSB7zn1kANBHeg-8qv2BKCFXFBA6d_E6fMQoF3kk/edit?usp=sharing)
-
 ## Team Intro
 [![team intro v2](https://img.youtube.com/vi/mUldCkwMCzc/0.jpg)](https://www.youtube.com/watch?v=mUldCkwMCzc)
 
@@ -148,6 +144,10 @@ The entire market becomes more efficient.
 - KISS (Keep It Simple, Stupid)
 - YAGNI (You Aren't Gonna Need It)
 - Refactor Regularly
+
+## Pitch Deck
+- [Sheet](https://docs.google.com/spreadsheets/d/1BViheaBCrXD0x2fArpVnu0dqRzkXZJQ4UsFLsZ8C3Y8/edit?usp=sharing)
+- [Slide](https://docs.google.com/presentation/d/1mOHJSB7zn1kANBHeg-8qv2BKCFXFBA6d_E6fMQoF3kk/edit?usp=sharing)
 
 ## Motivation
 
