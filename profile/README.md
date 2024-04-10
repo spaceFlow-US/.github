@@ -99,6 +99,27 @@ The entire market becomes more efficient.
 - **Busy Landlords**: Rent house faster. Buy house just like buy stock, they all give dividends effortlessly.
 - **Tenants**: One tour for all interested properties, rent dream house faster.
 
+## Self Tour Competitors
+|                 |[spaceFlow](https://tour.getspaceflow.com)|[Rently](https://use.rently.com/)|[Tenant Turner](https://vimeo.com/438608478)|[Showdigs](https://www.showdigs.com/how-it-works)|[appfolio](https://www.appfolio.com/)|
+|----             |----|----|----|----|----|
+| ID Verification | ✅ | ✅ | ✅ | ❌ | ❌ |
+| Tour Schedule   | ✅ | ✅ | ✅ | ✅ | ❌ |
+| Lock            | Smart Lock | Smart Lock | [CodeBox](https://youtu.be/inDPtJIQxXg?si=Pf3p_hpBuGnCo-Xo) | CodeBox | ❌ |
+| Self Tour       | ✅ | ✅ | ✅ | ✅ | ❌ |
+| UX              | ✅ | ❌ | ❌ | ❌ | ❌ |
+| Security        | ✅ | ❌ | ❌ | ❌ | ❌ |
+| House Provider  | ✅ Landlord+Property Manager | Property Manager  | Property Manager  | Property Manager  | Property Manager  |
+
+## Traction
+- Adoption in Southern California
+  - Customers manage over 300 properties.
+  - 7 properties are actively using the self-tour service.
+
+- Potential in South Dakota
+  - Existing customer base with 300+ properties.
+  - Opportunity for expansion of self-tour service.
+
+
 ## Pitch Deck
 - [Sheet](https://docs.google.com/spreadsheets/d/1BViheaBCrXD0x2fArpVnu0dqRzkXZJQ4UsFLsZ8C3Y8/edit?usp=sharing)
 - [Slide](https://docs.google.com/presentation/d/1mOHJSB7zn1kANBHeg-8qv2BKCFXFBA6d_E6fMQoF3kk/edit?usp=sharing)
@@ -106,13 +127,13 @@ The entire market becomes more efficient.
 ## Team Intro
 [![team intro v2](https://img.youtube.com/vi/mUldCkwMCzc/0.jpg)](https://www.youtube.com/watch?v=mUldCkwMCzc)
 
-| Name                                                            | Role  | Background                                   |
-| --------------------------------------------------------------- | ----- | -------------------------------------------- |
-| [Sung-Fu Han](https://www.linkedin.com/in/sungfuhan/)           |  CEO  | 10y Landlord/SRE/ML Reseacher                |
-| [Yi-Kai Liao](https://www.linkedin.com/in/yi-kailiao/)          |  CTO  | 3y Tenant/Leetcode 1300 solved               |
-| [Nelly Shih](https://www.linkedin.com/in/nellyshih/)            |  UX   | Yahoo UX/Struggle on real estate transparency|
-| [Takuma Takezawa](https://www.linkedin.com/in/takuma-takezawa/) |  SDE  | Airbnb Host                                  |
-| [Simon Huang](https://www.linkedin.com/in/simon198/)            |  SDE  | Web Developement Monster                     |
+| Name                                                            | Major | Role | Background                                   |
+| --------------------------------------------------------------- | ----- | -----| -------------------------------------------- |
+| [Sung-Fu Han](https://www.linkedin.com/in/sungfuhan/)           | CS    | CEO  | 10y Landlord/SRE/ML Reseacher                |
+| [Yi-Kai Liao](https://www.linkedin.com/in/yi-kailiao/)          | CS    | CTO  | 3y Tenant/Leetcode 1300 solved               |
+| [Nelly Shih](https://www.linkedin.com/in/nellyshih/)            | HCI   | UX   | Yahoo UX/Struggle on real estate transparency|
+| [Takuma Takezawa](https://www.linkedin.com/in/takuma-takezawa/) | CS    | SDE  | Airbnb Host                                  |
+| [Simon Huang](https://www.linkedin.com/in/simon198/)            | IS    | SDE  | Web Developement Monster                     |
 
 
 ## Culture
@@ -197,6 +218,14 @@ Implementing self-tours everywhere is a complex task that requires careful consi
 
 
 <!-- 
+
+ Mail
+wallinslax@gmail.com
+kevinliao75@gmail.com
+yushih0729@gmail.com
+t.t.yeah.b5@gmail.com
+c121549443@gmail.com
+
 
 ## Progress
 
