@@ -2,10 +2,11 @@
 
 :point_right: https://tour.getspaceflow.com
 
-| Activity/Platform           | Tenant                                   | Landlord                                     |
+| Activity                    | Tenant                                   | Landlord                                     |
 | -----------------------     | ---------------------------------------- | -------------------------------------------- |
-| Add new room                |                                          | ✅                                           |
+| [Add new room](https://www.youtube.com/watch?v=tDTK4_UgKfY&list=PLGDnJdf0olLXsGkfIsdQnCRQoQ6MwSE5s&index=4&t=68s&ab_channel=Sung-FuHan)                |                                          | ✅                                           |
 | Add Smart Lock              |                                          | ✅                                           |
+| Syndicate to Zillow         |                                          | ✅                                           |
 | ID Verification             | ✅                                       |                                              |
 | Credit Score Precheck       | <li> - [ ] </li>                         |                                              |
 | Schedule Self Tour          | ✅ [Book](https://youtu.be/UOzoPsOO0no)  | ✅ [Approve](https://youtu.be/pFf5CD-o4cg)   |
@@ -18,7 +19,7 @@
 | Pay Deposit/Rent            | <li> - [ ] </li>                         |                                              |
 | File Mantainance Ticket     | <li> - [ ] </li>                         |                                              |
 
-## How spaceFLow work
+## How spaceFlow work
 ![image](https://github.com/spaceFlow-US/.github/assets/20626329/f0900ae2-e740-4ed0-8192-e8ff58fcc204)
 
 
