@@ -26,7 +26,7 @@
 
 ## Short Intro
 
-spaceFlow is redefining property management through innovation in proptech. Our mission: to make remote property management a reality.
+spaceFlow is a proptech with mission: to make remote property management a reality using IoT and computer vision (CV).
 
 We understand that high-quality tenants are the backbone of a thriving rental market. At spaceFlow, we enable these tenants to enjoy an express rental experience, deserving of their status. Our platform offers a comprehensive one-time verification process, streamlining their journey from searching to settling into their new home with features like self-guided tours powered by IoT and computer vision, direct video communication with landlords, and swift application processes. This efficiency doesn't just attract tenants; it transforms them into invaluable assets for landlords, acting as reliable, single-unit property managers empowered by spaceFlow's maintenance system.
 
@@ -40,34 +40,64 @@ Join us at spaceFlow, where we leverage cutting-edge technology to streamline th
 
 
 ## Problem
-According to data from Zumper, the average room in the rental market remains idle for an extended period of 42 days. This inefficiency primarily stems from a mismatch between tenant availability and landlord or agent schedules. Professional agents, handling up to 10 room tours per week, typically operate during standard business hours (9 AM - 5 PM), which conflicts with the schedules of busy tenants who are often only available after 7 PM. Additionally, the concept of self-tours, though convenient, is not widely embraced due to prevailing trust issues.
+- Extended rental house idle time due to schedule mismatch (42 days, Zumper)
+- Trust Barriers Limiting Self-Tour
+- No Access to Self-Tour Services for Small-Scale Landlords
+
+![image](https://github.com/spaceFlow-US/.github/assets/20626329/f13aa62a-71c5-4ca5-9d37-b45f0d92ee59)
+
 
 ## Solution
-Our product aims to revolutionize the rental market by making self-tours a popular and trusted option.
+:point_right: Inclusive trustworthy Self-Tour Platform
 
-How We Achieve This:
-
-We plan to build trust between landlords and tenants in the pre-contract stage through innovative technology. This includes:
-
-- Supervised Computer Vision for Landlords: To provide real-time oversight during self-tours, enhancing security and trust.
-- Rigorous Tenant ID Checks: To ensure the authenticity and reliability of potential tenants.
-- Mandatory Tenant Credit Card Registration: To secure financial accountability and provide assurance to the landlord.
-
-By implementing these technological solutions, we bridge the gap between landlords and tenants, significantly reducing room idle time and streamlining the rental process.
+![image](https://github.com/spaceFlow-US/.github/assets/20626329/6ebce482-6ddb-465a-b359-26880abe0e1c)
 
 
-## How large the market?
-According to US Census Bureau, there are 24M individual landlord owned rental housing units.
+How Inclusive?
+- No demo
+- No minimum doors
+- Register and use it
+- First property free
 
-According to Zumper, self tour can shorten 0.3 month room idle time.
+How Trustworthy?
+- Computer Vision Copilot: Real-time oversight during self-tours
+- ID Check
+- Credit Score Precheck
+- Tenant Credit Card Registration
 
-Assume each unit is $1000/Mo.
+With these features, we build trust between landlords and tenants.
+Self-tours become the default option for every tenant during the rental journey.
+Tenants rent a house quicker.
+Landlords rent out their property faster.
+The entire market becomes more efficient.
 
-Self tour can save 7.2B per year.
+## How large is AI-IoT-enabled rental market? 50B 
 
-## Potential
-- Enables agents to conduct up to 30 tours per week, maximizing the number of visits and significantly enhancing the likelihood of successful deal closures, without requiring physical presence.
-- Facilitates remote management for multi-property holders nationwide, enabling efficient and effective property management from any location.
+### How large is self tour market? 1.5B/y
+- 48.2M rental Units in US (source: US Census Bureau)
+- 2023 Rental vacancy rate 6.5% (source: [US Census Bureau](https://www.census.gov/housing/hvs/data/prevann.html))
+- Self-tour can shorten idle time by 0.5 month (source: Zumper)
+- assume $1K/mo for each house
+- Equation: 48.2M * 6.5% * 1k/mo * 0.5mo/y = 1.5665B/y
+
+### How large is rental Comission market? 3.1B/y
+- 48.2M rental Units in US (source: US Census Bureau)
+- 2023 Rental vacancy rate 6.5% (source: [US Census Bureau](https://www.census.gov/housing/hvs/data/prevann.html))
+- Comission fee 1 month
+- assume $1K/mo for each house
+- Equation: 48.2M * 6.5% * 1k/mo * 1mo/y = 3.133B/y
+
+### How large is rental maintenance market? 45B/y
+- 48.2M rental Units in US (source: US Census Bureau)
+- 2023 Rental occupation rate 93.5% (source: [US Census Bureau](https://www.census.gov/housing/hvs/data/prevann.html))
+- Comission fee 1 month
+- assume $1K/mo for each house
+- Equation: 48.2M * 93.5% * 1k/mo * 1mo/y = 45.067B/y
+
+## Who will win?
+- **Property Manager**: management power from 50 units to 500 units, 10 times thier comission/maintenance fee
+- **Busy Landlords**: Rent house faster. Buy house just like buy stock, they all give dividends effortlessly.
+- **Tenants**: One tour for all interested properties, rent dream house faster.
 
 ## Pitch Deck
 - [Sheet](https://docs.google.com/spreadsheets/d/1BViheaBCrXD0x2fArpVnu0dqRzkXZJQ4UsFLsZ8C3Y8/edit?usp=sharing)
@@ -82,6 +112,7 @@ Self tour can save 7.2B per year.
 | [Yi-Kai Liao](https://www.linkedin.com/in/yi-kailiao/)          |  CTO  | 3y Tenant/Leetcode 1300 solved               |
 | [Nelly Shih](https://www.linkedin.com/in/nellyshih/)            |  UX   | Yahoo UX/Struggle on real estate transparency|
 | [Takuma Takezawa](https://www.linkedin.com/in/takuma-takezawa/) |  SDE  | Airbnb Host                                  |
+| [Simon Huang](https://www.linkedin.com/in/simon198/)            |  SDE  | Web Developement Monster                     |
 
 
 ## Culture
