@@ -1,15 +1,15 @@
 # spaceFlow
 ## Self Tour Competitors
 |                      |[spaceFlow](https://tour.getspaceflow.com)|[Rently](https://use.rently.com/)|[ShowMojo](https://hello.showmojo.com/)|[Tenant Turner](https://vimeo.com/438608478)|[Showdigs](https://www.showdigs.com/how-it-works)|[appfolio](https://www.appfolio.com/)|
-|----                  |----|----|----|----|----|----|
-| Listing Syndiccation | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ |
-| ID Verification      | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ |
-| Tour Schedule        | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ |
+|--------------------- |----------------------------------------- |-------------------------------- |-------------------------------------- |------------------------------------------- |------------------------------------------------ |------------------------------------ |
+| Listing Syndiccation | ✅                                       | ❌                              | ✅                                    | ❌                                         | ❌                                              | ❌                                  |
+| ID Verification      | ✅                                       | ✅                              | ❌                                    | ✅                                         | ❌                                              | ❌                                  |
+| Tour Schedule        | ✅                                       | ✅                              | ✅                                    | ✅                                         | ✅                                              | ❌                                  |
 | Smart Lock           | [General](https://tour.getspaceflow.com/smartlock)| [Limited](https://use.rently.com/smart-home/) | [Limited](https://hello.showmojo.com/mojolock/)  | [Limited](https://youtu.be/inDPtJIQxXg?si=Pf3p_hpBuGnCo-Xo) | Limited | ❌ |
-| Self Tour            | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ |
-| UX                   | ✅                           | ❌               | ❌                | ❌                | ❌                | ❌                |
-| Security             | ✅                           | ❌               | ❌                | ❌                | ❌                | ❌                |
-| House Provider       | ✅ Landlord <br/> ✅ Property Manager | Property Manager | Property Manager  | Property Manager  | Property Manager  | Property Manager  |
+| Self Tour            | ✅                                       | ✅                              | ✅                                    | ✅                                         | ✅                                              | ❌                                  |
+| UX                   | ✅                                       | ❌                              | ❌                                    | ❌                                         | ❌                                              | ❌                                  |
+| Security             | ✅                                       | ❌                              | ❌                                    | ❌                                         | ❌                                              | ❌                                  |
+| House Provider       | ✅ Landlord <br/> ✅ Property Manager    | Property Manager                | Property Manager                      | Property Manager                           | Property Manager                                | Property Manager                     |
 
 
 :point_right: https://tour.getspaceflow.com
