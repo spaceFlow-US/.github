@@ -1,4 +1,16 @@
 # spaceFlow
+## Self Tour Competitors
+|                      |[spaceFlow](https://tour.getspaceflow.com)|[Rently](https://use.rently.com/)|[ShowMojo](https://hello.showmojo.com/)|[Tenant Turner](https://vimeo.com/438608478)|[Showdigs](https://www.showdigs.com/how-it-works)|[appfolio](https://www.appfolio.com/)|
+|----                  |----|----|----|----|----|----|
+| Listing Syndiccation | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ |
+| ID Verification      | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ |
+| Tour Schedule        | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ |
+| Smart Lock           | [General](https://tour.getspaceflow.com/smartlock)| [Limited](https://use.rently.com/smart-home/) | [Limited](https://hello.showmojo.com/mojolock/)  | [Limited](https://youtu.be/inDPtJIQxXg?si=Pf3p_hpBuGnCo-Xo) | Limited | ❌ |
+| Self Tour            | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ |
+| UX                   | ✅                           | ❌               | ❌                | ❌                | ❌                | ❌                |
+| Security             | ✅                           | ❌               | ❌                | ❌                | ❌                | ❌                |
+| House Provider       | ✅ Landlord <br/> ✅ Property Manager | Property Manager | Property Manager  | Property Manager  | Property Manager  | Property Manager  |
+
 
 :point_right: https://tour.getspaceflow.com
 
@@ -98,17 +110,6 @@ The entire market becomes more efficient.
 - **Property Manager**: management power from 50 units to 500 units, 10 times thier comission/maintenance fee
 - **Busy Landlords**: Rent house faster. Buy house just like buy stock, they all give dividends effortlessly.
 - **Tenants**: One tour for all interested properties, rent dream house faster.
-
-## Self Tour Competitors
-|                 |[spaceFlow](https://tour.getspaceflow.com)|[Rently](https://use.rently.com/)|[Tenant Turner](https://vimeo.com/438608478)|[Showdigs](https://www.showdigs.com/how-it-works)|[appfolio](https://www.appfolio.com/)|
-|----             |----|----|----|----|----|
-| ID Verification | ✅ | ✅ | ✅ | ❌ | ❌ |
-| Tour Schedule   | ✅ | ✅ | ✅ | ✅ | ❌ |
-| Lock            | Smart Lock | Smart Lock | [CodeBox](https://youtu.be/inDPtJIQxXg?si=Pf3p_hpBuGnCo-Xo) | CodeBox | ❌ |
-| Self Tour       | ✅ | ✅ | ✅ | ✅ | ❌ |
-| UX              | ✅ | ❌ | ❌ | ❌ | ❌ |
-| Security        | ✅ | ❌ | ❌ | ❌ | ❌ |
-| House Provider  | ✅ Landlord+Property Manager | Property Manager  | Property Manager  | Property Manager  | Property Manager  |
 
 ## Traction
 - Adoption in Southern California
