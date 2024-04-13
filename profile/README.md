@@ -2,14 +2,16 @@
 ## Self Tour Competitors
 |                      |[spaceFlow](https://tour.getspaceflow.com)|[Rently](https://use.rently.com/)|[ShowMojo](https://hello.showmojo.com/)|[Tenant Turner](https://vimeo.com/438608478)|[Showdigs](https://www.showdigs.com/how-it-works)|[appfolio](https://www.appfolio.com/)|
 |--------------------- |----------------------------------------- |-------------------------------- |-------------------------------------- |------------------------------------------- |------------------------------------------------ |------------------------------------ |
-| Listing Syndiccation | ✅                                       | ✅                              | ✅                                    | 🤔                                         | 🤔                                              | ✅                                  |
+| Listing Syndiccation | ✅                                       | ✅                              | ✅                                    | ✅                                         | ❌                                              | ✅                                  |
 | ID Verification      | ✅                                       | ✅                              | ❌                                    | ✅                                         | ❌                                              | ❌                                  |
 | Tour Schedule        | ✅                                       | ✅                              | ✅                                    | ✅                                         | ✅                                              | ❌                                  |
 | Smart Lock           | ✅ [General](https://tour.getspaceflow.com/smartlock)| ❌ [Limited](https://use.rently.com/smart-home/) | ❌ [Limited](https://hello.showmojo.com/mojolock/)  | ❌ [Limited](https://youtu.be/inDPtJIQxXg?si=Pf3p_hpBuGnCo-Xo) | ❌ Limited | ❌ |
 | Self Tour            | ✅ Secure with CV                        | ❌ Blind                        | ❌ Blind                              | ❌ Blind                                   | ❌ Blind                                        | ❌                                  |
-| UX                   | ✅                                       | ❌                              | ❌                                    | ❌                                         | ❌                                              | ❌                                  |
+| Direct Use/No Demo   | ✅                                       | ❌                              | ❌                                    | ❌                                         | ❌                                              | ❌                                  |
 | House Provider       | ✅ Landlord <br/> ✅ Property Manager    | Property Manager                | Property Manager                      | Property Manager                           | Property Manager                                | Property Manager                     |
-
+<!-- 
+https://www.showdigs.com/showdigs-vs-the-competition
+-->
 
 :point_right: https://tour.getspaceflow.com
 
