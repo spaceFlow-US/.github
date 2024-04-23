@@ -21,7 +21,14 @@
 ## How spaceFlow work
 [![image](https://github.com/spaceFlow-US/.github/assets/20626329/f0900ae2-e740-4ed0-8192-e8ff58fcc204)](https://youtu.be/uyPxHJinf3w?si=6UfdQz0ZNmMW1r_x)
 
-## Tutorial
+## Video
+- How spaceFlow work? https://youtu.be/uyPxHJinf3w
+- Supporting wide range of smart lock: https://youtu.be/lYC5LRvDqO4
+- Landlord Step 1: Add Porperty https://youtu.be/8SAtHRkOXO4
+- Landlord Step 2: Marketing Listing & Subscribe https://youtu.be/4Z3nVyaEdJ4
+- Landlord Step 3: Approve or Decline (Auto) Showing https://youtu.be/pFf5CD-o4cg
+- Landlord Step 4: Cloud Tour https://youtu.be/lp7MuM7jdvM
+- Tenant Step 1 - Book a Tour (Phone, ID, Credit Card Verification) https://youtu.be/UOzoPsOO0no
 https://youtube.com/playlist?list=PLGDnJdf0olLXsGkfIsdQnCRQoQ6MwSE5s&si=ssTZZ9XWz-8pME7E
 
 ## Short Intro
