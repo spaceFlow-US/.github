@@ -30,7 +30,7 @@ sequenceDiagram
     create participant Zillow
     spaceFlow->>Zillow: Syndicates Listing
     Tenant-->>Zillow: Tenant Finds Listing
-    Tenant->>Zillow: Clicks 'Book a Tour'
+    Tenant->>Zillow: Clicks 'Request a tour'
     Zillow->>spaceFlow: Forwards Tour Request
     destroy Zillow
     spaceFlow->>Zillow:200: Lead recieved
