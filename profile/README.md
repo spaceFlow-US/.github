@@ -60,6 +60,19 @@ sequenceDiagram
 - Tenant Step 1 - Book a Tour (Phone, ID, Credit Card Verification) https://youtu.be/UOzoPsOO0no
 https://youtube.com/playlist?list=PLGDnJdf0olLXsGkfIsdQnCRQoQ6MwSE5s&si=ssTZZ9XWz-8pME7E
 
+## Integration
+```mermaid
+block-beta
+  columns 5
+  a["Marketing"] b["Leasing"] space c["Mantainence"] d["Accounting"] 
+  spaceFLow:2 space appfolio:2
+  space:3 buildium:2
+  space:3 e["Property Meld"]:2
+  spaceFLow -- "Integrate" --> appfolio
+  spaceFLow -- "Integrate" --> buildium
+  spaceFLow -- "Integrate" --> e
+```
+
 ## Short Intro
 
 spaceFlow is a proptech with mission: to make remote property management a reality using IoT and computer vision (CV).
