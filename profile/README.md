@@ -64,6 +64,7 @@ https://youtube.com/playlist?list=PLGDnJdf0olLXsGkfIsdQnCRQoQ6MwSE5s&si=ssTZZ9XW
 ```mermaid
 block-beta
   columns 5
+  s["Lease Life Cycle"]:5
   a["Marketing"] b["Leasing"] space c["Mantainence"] d["Accounting"] 
   spaceFLow:2 space appfolio:2
   space:3 buildium:2
