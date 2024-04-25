@@ -23,19 +23,23 @@
 sequenceDiagram
     participant Landlord
     participant spaceFlow
-    participant Zillow
     participant Tenant
 
+    autonumber
     Landlord->>spaceFlow: Lists Property
+    create participant Zillow
     spaceFlow->>Zillow: Syndicates Listing
     Tenant-->>Zillow: Tenant Finds Listing
     Tenant->>Zillow: Clicks 'Book a Tour'
     Zillow->>spaceFlow: Forwards Tour Request
+    destroy Zillow
+    spaceFlow->>Zillow:200: Lead recieved
+
     spaceFlow->>Tenant: Sends Email with Schedule Link
     Tenant->>spaceFlow: Completes ID Verification
     Tenant->>spaceFlow: Books Tour
     Landlord->>spaceFlow: Confirms Tour Booking
-    Landlord --> Tenant: Messaging/Video Chat
+    Landlord --> Tenant: Messaging
     par Self Tour
         Tenant->>spaceFlow: Attend at House Address
         Landlord->>spaceFlow: Attend Online
