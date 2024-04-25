@@ -33,9 +33,8 @@ sequenceDiagram
     spaceFlow->>Zillow: Syndicates Listing
     Tenant-->>Zillow: Tenant Finds Listing
     Tenant->>Zillow: Clicks 'Request a tour'
-    Zillow->>spaceFlow: Lead Delivery HTTP POST Callback
     destroy Zillow
-    spaceFlow->>Zillow:200: Lead recieved
+    Zillow->>spaceFlow: Lead Delivery HTTP POST Callback
 
     spaceFlow->>Tenant: Sends Email with Schedule Link
     Tenant->>spaceFlow: Completes ID Verification
@@ -49,6 +48,10 @@ sequenceDiagram
     end
     par Application
         Tenant->>spaceFlow: Send Application
+        create participant experian
+        spaceFlow-->>experian: Background Check Request
+        destroy experian
+        experian-->>spaceFlow: Credit and Background Report
         Landlord->>spaceFlow: Approve
     end
     spaceFlow->>Tenant: Send Contract
