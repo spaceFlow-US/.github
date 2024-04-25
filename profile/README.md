@@ -58,7 +58,7 @@ sequenceDiagram
 - Landlord Step 3: Approve or Decline (Auto) Showing https://youtu.be/pFf5CD-o4cg
 - Landlord Step 4: Cloud Tour https://youtu.be/lp7MuM7jdvM
 - Tenant Step 1 - Book a Tour (Phone, ID, Credit Card Verification) https://youtu.be/UOzoPsOO0no
-https://youtube.com/playlist?list=PLGDnJdf0olLXsGkfIsdQnCRQoQ6MwSE5s&si=ssTZZ9XWz-8pME7E
+- Tutorial Playlist: https://youtube.com/playlist?list=PLGDnJdf0olLXsGkfIsdQnCRQoQ6MwSE5s&si=ssTZZ9XWz-8pME7E
 
 ## Integration
 ```mermaid
