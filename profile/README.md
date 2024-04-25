@@ -35,6 +35,7 @@ sequenceDiagram
     Tenant->>spaceFlow: Completes ID Verification
     Tenant->>spaceFlow: Books Tour
     Landlord->>spaceFlow: Confirms Tour Booking
+    Landlord --> Tenant: Messaging/Video Chat
     par Self Tour
         Tenant->>spaceFlow: Attend at House Address
         Landlord->>spaceFlow: Attend Online
