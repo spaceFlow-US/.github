@@ -33,7 +33,7 @@ sequenceDiagram
     spaceFlow->>Zillow: Syndicates Listing
     Tenant-->>Zillow: Tenant Finds Listing
     Tenant->>Zillow: Clicks 'Request a tour'
-    Zillow->>spaceFlow: Forwards Tour Request
+    Zillow->>spaceFlow: Lead Delivery HTTP POST Callback
     destroy Zillow
     spaceFlow->>Zillow:200: Lead recieved
 
