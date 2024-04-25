@@ -19,7 +19,36 @@
 | File Mantainance Ticket     | <li> - [ ] </li>                         |                                              |
 
 ## How spaceFlow work
-[![image](https://github.com/spaceFlow-US/.github/assets/20626329/f0900ae2-e740-4ed0-8192-e8ff58fcc204)](https://youtu.be/uyPxHJinf3w?si=6UfdQz0ZNmMW1r_x)
+```mermaid
+sequenceDiagram
+    participant Landlord
+    participant spaceFlow
+    participant Zillow
+    participant Tenant
+
+    Landlord->>spaceFlow: Lists Property
+    spaceFlow->>Zillow: Syndicates Listing
+    Tenant-->>Zillow: Tenant Finds Listing
+    Tenant->>Zillow: Clicks 'Book a Tour'
+    Zillow->>spaceFlow: Forwards Tour Request
+    spaceFlow->>Tenant: Sends Email with Schedule Link
+    Tenant->>spaceFlow: Completes ID Verification
+    Tenant->>spaceFlow: Books Tour
+    Landlord->>spaceFlow: Confirms Tour Booking
+    par Self Tour
+        Tenant->>spaceFlow: Attend at House Address
+        Landlord->>spaceFlow: Attend Online
+    end
+    par Application
+        Tenant->>spaceFlow: Send Application
+        Landlord->>spaceFlow: Approve
+    end
+    spaceFlow->>Tenant: Send Contract
+    Tenant->>spaceFlow: Signed
+    Tenant->>spaceFlow: Pay Deposit/Rent
+    spaceFlow->>Tenant: Grant Smart Lock Access
+    spaceFlow->>Landlord: Send Rent/Report Monthly
+```
 
 ## Video
 - How spaceFlow work? https://youtu.be/uyPxHJinf3w
