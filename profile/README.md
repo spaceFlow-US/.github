@@ -45,6 +45,7 @@ sequenceDiagram
     par Self Tour
         Tenant->>spaceFlow: Attend at House Address
         Landlord->>spaceFlow: Attend Online
+    spaceFlow-->spaceFlow: CV Copilot/Video Record
     end
     par Application
         Tenant->>spaceFlow: Send Application
