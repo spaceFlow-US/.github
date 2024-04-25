@@ -20,7 +20,7 @@
 | Pay Deposit/Rent            | <li> - [ ] </li>                         |                                              |
 | File Mantainance Ticket     | <li> - [ ] </li>                         |                                              |
 
-## How spaceFlow work
+## How spaceFlow works
 ```mermaid
 sequenceDiagram
     participant Landlord
@@ -57,7 +57,7 @@ sequenceDiagram
     spaceFlow->>Landlord: Send Rent/Report Monthly
 ```
 
-## Video
+## Videos
 - How spaceFlow work? https://youtu.be/uyPxHJinf3w
 - Supporting wide range of smart lock: https://youtu.be/lYC5LRvDqO4
 - Landlord Step 1: Add Porperty https://youtu.be/8SAtHRkOXO4
