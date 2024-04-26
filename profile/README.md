@@ -68,9 +68,10 @@ sequenceDiagram
 - Supporting wide range of smart lock: https://youtu.be/lYC5LRvDqO4
 - Landlord Step 1: Add Porperty https://youtu.be/8SAtHRkOXO4
 - Landlord Step 2: Marketing Listing & Subscribe https://youtu.be/4Z3nVyaEdJ4
-- Landlord Step 3: Approve or Decline (Auto) Showing https://youtu.be/pFf5CD-o4cg
+- Landlord Step 3: Approve/Decline a Tour https://youtu.be/pFf5CD-o4cg
 - Landlord Step 4: Cloud Tour https://youtu.be/lp7MuM7jdvM
 - Tenant Step 1 - Book a Tour (Phone, ID, Credit Card Verification) https://youtu.be/UOzoPsOO0no
+- Tenant Step 2 - Reschedule/Cancel a Tour https://youtu.be/RyeQnMcewDs
 - Tutorial Playlist: https://youtube.com/playlist?list=PLGDnJdf0olLXsGkfIsdQnCRQoQ6MwSE5s&si=ssTZZ9XWz-8pME7E
 
 ## Integration
