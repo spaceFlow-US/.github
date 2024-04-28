@@ -162,6 +162,13 @@ The entire market becomes more efficient.
 - **Property Manager**: management power from 50 units to 500 units, 10 times thier comission/maintenance fee
 - **Busy Landlords**: Rent house faster. Buy house just like buy stock, they all give dividends effortlessly.
 - **Tenants**: One tour for all interested properties, rent dream house faster.
+- **spaceFlow**: tour video can be used to reconstruct interior 3D model for future virtual tour
+
+| Input Video | Output 3D Model Preview | 
+|--------|--------|
+| [![input_video](https://img.youtube.com/vi/vcJcDVBjRfM/0.jpg)](https://youtube.com/shorts/vcJcDVBjRfM) | [![output_3D Model Preview](https://img.youtube.com/vi/VlxpXF6Ug1o/0.jpg)](https://youtu.be/VlxpXF6Ug1o) |
+
+
 
 ## Self Tour Competitors
 |                      |[spaceFlow](https://tour.getspaceflow.com)|[Rently](https://use.rently.com/)|[ShowMojo](https://hello.showmojo.com/)|[Tenant Turner](https://vimeo.com/438608478)|[Showdigs](https://www.showdigs.com/how-it-works)|[appfolio](https://www.appfolio.com/)|
