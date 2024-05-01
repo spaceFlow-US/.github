@@ -172,7 +172,7 @@ The entire market becomes more efficient.
 
 
 
-## Self Tour Competitors
+## Competitors prove market is valid
 |                      |[spaceFlow](https://tour.getspaceflow.com)|[Rently](https://use.rently.com/)|[ShowMojo](https://hello.showmojo.com/)|[Tenant Turner](https://vimeo.com/438608478)|[Showdigs](https://www.showdigs.com/how-it-works)|[appfolio](https://www.appfolio.com/)|
 |--------------------- |----------------------------------------- |-------------------------------- |-------------------------------------- |------------------------------------------- |------------------------------------------------ |------------------------------------ |
 | Listing Syndiccation | ✅                                       | ✅                              | ✅                                    | ✅                                         | ❌                                              | ✅                                  |
