@@ -39,13 +39,13 @@ sequenceDiagram
     spaceFlow->>Tenant: Sends Email with Schedule Link
     Tenant->>spaceFlow: Completes ID Verification
     Tenant->>spaceFlow: Books Tour
-    Landlord->>spaceFlow: Confirms Tour Booking
+    Landlord-->>spaceFlow: Confirms Tour Booking
     Tenant-->>spaceFlow: Feedback to schedule experience
     Tenant-->>Landlord: Messaging
 
     par Self Tour
         Tenant->>spaceFlow: Attend at House Address
-        Landlord->>spaceFlow: Attend Online
+        Landlord-->>spaceFlow: Attend Online
     spaceFlow-->spaceFlow: CV Copilot/Video Record
     end
     par Application
@@ -54,7 +54,7 @@ sequenceDiagram
         spaceFlow-->>experian: Background Check Request
         destroy experian
         experian-->>spaceFlow: Credit and Background Report
-        Landlord->>spaceFlow: Approve
+        Landlord-->>spaceFlow: Approve
     end
     spaceFlow->>Tenant: Send Contract
     Tenant->>spaceFlow: Signed
@@ -90,13 +90,9 @@ block-beta
 
 ## Short Intro
 
-spaceFlow is a proptech with mission: to make remote property management a reality using IoT and computer vision (CV).
+spaceFlow is a proptech with a mission: to make remote property management a reality using IoT and computer vision (CV).
 
-We understand that high-quality tenants are the backbone of a thriving rental market. At spaceFlow, we enable these tenants to enjoy an express rental experience, deserving of their status. Our platform offers a comprehensive one-time verification process, streamlining their journey from searching to settling into their new home with features like self-guided tours powered by IoT and computer vision, direct video communication with landlords, and swift application processes. This efficiency doesn't just attract tenants; it transforms them into invaluable assets for landlords, acting as reliable, single-unit property managers empowered by spaceFlow's maintenance system.
-
-With just a few clicks to list a property and a monthly platform fee, landlord gain access to a pool of qualified tenants. Our automation platform will guide qualified tenants to handle the rest. Landlords can live anywhere.
-
-Join us at spaceFlow, where we leverage cutting-edge technology to streamline the rental process, build strong landlord-tenant relationships, and pave the way for the future of remote property management. Transforming the rental industry, one property at a time. Invest in homes like stocks, earn dividends effortlessly.
+We understand that high-quality tenants are the backbone of a thriving rental market. At spaceFlow, we enable these tenants to enjoy an express rental experience. From search to settlement, we guide tenants through a one-time verification process, self-guided tours powered by IoT and computer vision, direct video communication with landlords, and swift application processes, including a self-aid maintenance system. Our mechanism transforms tenants into invaluable assets for landlords, acting as reliable, single-unit property managers. Please check [How spaceFlow works](#how-spaceflow-works). Adding a property is the only task (solid line) for landlords, that's it. Invest in homes like stocks, earn dividends effortlessly.
 
 ## Target Audience
 ![image](https://github.com/spaceFlow-US/.github/assets/20626329/d977294b-8132-4a19-bce5-bbdb617f5576)
