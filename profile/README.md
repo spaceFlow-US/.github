@@ -33,14 +33,16 @@ sequenceDiagram
     par Self Tour
         Tenant->>spaceFlow: Attend at House Address
         Landlord-->>spaceFlow: Attend Online
-    spaceFlow-->spaceFlow: CV Copilot/Video Record
+    spaceFlow->spaceFlow: CV Copilot/Video Record
     end
+    Tenant-->>spaceFlow: Check Video Tour Diary
+
     par Application
         Tenant->>spaceFlow: Send Application
         create participant experian
-        spaceFlow-->>experian: Background Check Request
+        spaceFlow->>experian: Background Check Request
         destroy experian
-        experian-->>spaceFlow: Credit and Background Report
+        experian->>spaceFlow: Credit and Background Report
         Landlord-->>spaceFlow: Approve
     end
     spaceFlow->>Tenant: Send Contract
