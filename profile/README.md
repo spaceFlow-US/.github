@@ -1,24 +1,11 @@
 # spaceFlow
-:point_right: https://tour.getspaceflow.com
+use it now :point_right: https://tour.getspaceflow.com
 
-| Activity                    | Tenant                                   | Landlord                                     |
-| -----------------------     | ---------------------------------------- | -------------------------------------------- |
-| [Add new room](https://www.youtube.com/watch?v=tDTK4_UgKfY&list=PLGDnJdf0olLXsGkfIsdQnCRQoQ6MwSE5s&index=4&t=68s&ab_channel=Sung-FuHan)                |                                          | ✅                                           |
-| Add Smart Lock              |                                          | ✅                                           |
-| Syndicate to Zillow         |                                          | ✅                                           |
-| ID Verification             | ✅                                       |                                              |
-| Credit Score Precheck       | <li> - [ ] </li>                         |                                              |
-| Schedule Self Tour          | ✅ [Book](https://youtu.be/UOzoPsOO0no)  | ✅ [Approve](https://youtu.be/pFf5CD-o4cg)   |
-| Feedback System             | <li> - [ ] </li>                         | <li> - [ ] </li>                             |
-| Message System              | <li> - [ ] </li>                         | <li> - [ ] </li>                             |
-| [Video Chat during Tour](https://youtu.be/lp7MuM7jdvM)     | ✅                                        | ✅ Remote Unlock Door                       |
-| Video Tour Diary            | <li> - [ ] </li>                         |                                              |
-| CV Tour Copilot             |                                          | <li> - [ ] </li>                             |
-| CV Tour Autopilot           |                                          | <li> - [ ] </li>                             |
-| Background Check            | <li> - [ ] </li>                         |                                              |
-| Contract eSign              | <li> - [ ] </li>                         | <li> - [ ] </li>                             |
-| Pay Deposit/Rent            | <li> - [ ] </li>                         |                                              |
-| File Mantainance Ticket     | <li> - [ ] </li>                         |                                              |
+## Short Intro
+
+spaceFlow is a proptech with a mission: to make remote property management a reality using IoT and computer vision (CV).
+
+We understand that high-quality tenants are the backbone of a thriving rental market. At spaceFlow, we enable these tenants to enjoy an express rental experience. From search to settlement, we guide tenants through a one-time verification process, self-guided tours direct video communication with landlords, swift application processes, auto payment, and self-aid maintenance system. Our mechanism transforms tenants into invaluable assets for landlords, acting as reliable, single-unit property managers. Please check [How spaceFlow works](#how-spaceflow-works). Adding a property is the only task (solid line) for landlords, that's it. Invest in homes like stocks, earn dividends effortlessly.
 
 ## How spaceFlow works
 ```mermaid
@@ -74,6 +61,28 @@ sequenceDiagram
 - Tenant Step 2 - Reschedule/Cancel a Tour https://youtu.be/RyeQnMcewDs
 - Tutorial Playlist: https://youtube.com/playlist?list=PLGDnJdf0olLXsGkfIsdQnCRQoQ6MwSE5s&si=ssTZZ9XWz-8pME7E
 
+## Progress
+
+| Activity                    | Tenant                                   | Landlord                                     |
+| -----------------------     | ---------------------------------------- | -------------------------------------------- |
+| [Add new room](https://www.youtube.com/watch?v=tDTK4_UgKfY&list=PLGDnJdf0olLXsGkfIsdQnCRQoQ6MwSE5s&index=4&t=68s&ab_channel=Sung-FuHan)                |                                          | ✅                                           |
+| Add Smart Lock              |                                          | ✅                                           |
+| Syndicate to Zillow         |                                          | ✅                                           |
+| ID Verification             | ✅                                       |                                              |
+| Credit Score Precheck       | <li> - [ ] </li>                         |                                              |
+| Schedule Self Tour          | ✅ [Book](https://youtu.be/UOzoPsOO0no)  | ✅ [Approve](https://youtu.be/pFf5CD-o4cg)   |
+| Feedback System             | <li> - [ ] </li>                         | <li> - [ ] </li>                             |
+| Message System              | <li> - [ ] </li>                         | <li> - [ ] </li>                             |
+| [Video Chat during Tour](https://youtu.be/lp7MuM7jdvM)     | ✅                                        | ✅ Remote Unlock Door                       |
+| Video Tour Diary            | <li> - [ ] </li>                         |                                              |
+| CV Tour Copilot             |                                          | <li> - [ ] </li>                             |
+| CV Tour Autopilot           |                                          | <li> - [ ] </li>                             |
+| Background Check            | <li> - [ ] </li>                         |                                              |
+| Contract eSign              | <li> - [ ] </li>                         | <li> - [ ] </li>                             |
+| Pay Deposit/Rent            | <li> - [ ] </li>                         |                                              |
+| File Mantainance Ticket     | <li> - [ ] </li>                         |                                              |
+
+
 ## Integration
 ```mermaid
 block-beta
@@ -88,11 +97,6 @@ block-beta
   spaceFLow -- "Integrate" --> e
 ```
 
-## Short Intro
-
-spaceFlow is a proptech with a mission: to make remote property management a reality using IoT and computer vision (CV).
-
-We understand that high-quality tenants are the backbone of a thriving rental market. At spaceFlow, we enable these tenants to enjoy an express rental experience. From search to settlement, we guide tenants through a one-time verification process, self-guided tours powered by IoT and computer vision, direct video communication with landlords, and swift application processes, including a self-aid maintenance system. Our mechanism transforms tenants into invaluable assets for landlords, acting as reliable, single-unit property managers. Please check [How spaceFlow works](#how-spaceflow-works). Adding a property is the only task (solid line) for landlords, that's it. Invest in homes like stocks, earn dividends effortlessly.
 
 ## Target Audience
 ![image](https://github.com/spaceFlow-US/.github/assets/20626329/d977294b-8132-4a19-bce5-bbdb617f5576)
