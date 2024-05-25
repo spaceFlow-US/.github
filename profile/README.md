@@ -202,8 +202,8 @@ https://www.showdigs.com/showdigs-vs-the-competition
 
 ## Traction
 - Adoption in Southern California
-  - Customers manage over 300 properties.
-  - 7 properties are actively using the self-tour service.
+  - Customers manage over 350 properties.
+  - 11 properties are actively using the self-tour service.
 
 - Potential in South Dakota
   - Existing customer base with 300+ properties.
