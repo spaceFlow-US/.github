@@ -104,38 +104,34 @@ block-beta
 ![image](https://github.com/spaceFlow-US/.github/assets/20626329/d977294b-8132-4a19-bce5-bbdb617f5576)
 
 
-
 ## Problem
-- Extended rental house idle time due to schedule mismatch (42 days, Zumper)
-- Trust Barriers Limiting Self-Tour
-- No Access to Self-Tour Services for Small-Scale Landlords
+- Long idle time due to schedule mismatch (42 days, Zumper)
+- No Trust on Self-Tour
 
 ![image](https://github.com/spaceFlow-US/.github/assets/20626329/f13aa62a-71c5-4ca5-9d37-b45f0d92ee59)
 
-
 ## Solution
-:point_right: Inclusive trustworthy Self-Tour Platform
+:point_right: Computer Vision Self-Tour 
 
-![image](https://github.com/spaceFlow-US/.github/assets/20626329/6ebce482-6ddb-465a-b359-26880abe0e1c)
-
-
-How Inclusive?
-- No demo
-- No minimum doors
-- Register and use it
-- First property free
-
-How Trustworthy?
+Trustworthy
 - Computer Vision Copilot: Real-time oversight during self-tours
 - ID Check
 - Credit Score Precheck
 - Tenant Credit Card Registration
+
+Inclusive
+- No demo
+- No minimum doors
+- Register and use it
+- First property free
 
 With these features, we build trust between landlords and tenants.
 Self-tours become the default option for every tenant during the rental journey.
 Tenants rent a house quicker.
 Landlords rent out their property faster.
 The entire market becomes more efficient.
+
+![image](https://github.com/spaceFlow-US/.github/assets/20626329/6ebce482-6ddb-465a-b359-26880abe0e1c)
 
 ## How large is AI-IoT-enabled rental market? 50B 
 
