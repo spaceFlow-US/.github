@@ -3,7 +3,7 @@ use it now :point_right: https://tour.getspaceflow.com
 
 ## Short Intro
 
-spaceFlow is a proptech with a mission: to make landlord lazy and tenant happy using IoT and computer vision (CV).
+spaceFlow is a proptech with a mission: to make landlords lazy and tenants happy by using IoT and computer vision, enabling tenants to rent a house anytime, anywhere, without any interaction, and landlords to only list their property on our site.
 
 We understand that high-quality tenants are the backbone of a thriving rental market. At spaceFlow, we enable these tenants to enjoy an express rental experience. From search to settlement, We have transformed every step of the rental lifecycle into a self-service process, including a one-time verification, self-guided tours, direct video communication with landlords, swift application procedures, automatic payments, and a self-aid maintenance system. Our mechanism empowers tenants to become invaluable assets for landlords, acting as reliable, single-unit property managers. Please check [How spaceFlow works](#how-spaceflow-works). Adding a property is the only task (solid line) for landlords, that's it. Invest in homes like stocks, earn dividends effortlessly.
 
