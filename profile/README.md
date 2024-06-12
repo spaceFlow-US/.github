@@ -1,5 +1,5 @@
 # spaceFlow
-use it now :point_right: https://tour.getspaceflow.com
+use it now :point_right: https://getspaceflow.com 
 
 ## Short Intro
 
