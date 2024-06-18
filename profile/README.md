@@ -76,9 +76,8 @@ sequenceDiagram
     App->>OTP Lock: Initialization
     OTP Lock ->> App: lockId
     App->>spaceFlow Backend: Register lock(lockId, address)
-    spaceFlow Backend->>App: OTP Seed
-    spaceFlow Backend->>App: Permanent Codes
-    App->>OTP Lock: OTP Seed
+    spaceFlow Backend->>App: OTP Seed, Permanent Codes
+    App->>OTP Lock: OTP Seed, Permanent Codes
     Note over App,OTP Lock: Tenant Tour
     App->>spaceFlow Backend: requestUnlock(address)
     spaceFlow Backend->>App: OTP
