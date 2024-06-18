@@ -63,6 +63,33 @@ sequenceDiagram
 - Tenant Step 2 - Reschedule/Cancel a Tour https://youtu.be/RyeQnMcewDs
 - Tutorial Playlist: https://youtube.com/playlist?list=PLGDnJdf0olLXsGkfIsdQnCRQoQ6MwSE5s&si=ssTZZ9XWz-8pME7E
 
+## How spaceFlow long life OTP Lock work? (Under developing)
+```mermaid
+sequenceDiagram
+    participant spaceFlow Backend
+    box via Bluetooth
+    participant App 
+    participant OTP Lock
+    end
+    autonumber
+    Note over App,OTP Lock: Landlord Setup
+    App->>OTP Lock: Initialization
+    OTP Lock ->> App: lockId
+    App->>spaceFlow Backend: Register lock(lockId, address)
+    spaceFlow Backend->>App: OTP Seed
+    spaceFlow Backend->>App: Permanent Codes
+    App->>OTP Lock: OTP Seed
+    Note over App,OTP Lock: Tenant Tour
+    App->>spaceFlow Backend: requestUnlock(address)
+    spaceFlow Backend->>App: OTP
+    App->>OTP Lock: Unlock
+    Note over App,OTP Lock: Time Unsynchronized
+    App->>spaceFlow Backend: requestUnlockEmergency(address)
+    spaceFlow Backend->>App: Permanent Code
+    App->>OTP Lock: Unlock
+
+```
+
 ## Progress
 
 | Activity                    | Tenant                                   | Landlord                                     |
