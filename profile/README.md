@@ -7,6 +7,38 @@ spaceFlow is a proptech with a mission: to make landlords lazy and tenants happy
 
 We understand that high-quality tenants are the backbone of a thriving rental market. At spaceFlow, we enable these tenants to enjoy an express rental experience. From search to settlement, We have transformed every step of the rental lifecycle into a self-service process, including a one-time verification, self-guided tours, direct video communication with landlords, swift application procedures, automatic payments, and a self-aid maintenance system. Our mechanism empowers tenants to become invaluable assets for landlords, acting as reliable, single-unit property managers. Please check [How spaceFlow works](#how-spaceflow-works). Adding a property is the only task (solid line) for landlords, that's it. Invest in homes like stocks, earn dividends effortlessly.
 
+## Problem
+The traditional rental market faces inefficiencies such as 
+- long idle times (42 days, Zumper) due to schedule mismatches and
+-  a lack of trust in self-tours.
+
+Landlords and tenants both suffer from these issues, leading to prolonged vacancies and an inconvenient rental process.
+
+![image](https://github.com/spaceFlow-US/.github/assets/20626329/f13aa62a-71c5-4ca5-9d37-b45f0d92ee59)
+
+## Solution
+SpaceFlow addresses these issues by leveraging AI, IoT, and computer vision technologies to enable secure, self-guided tours and a seamless rental process. Tenants can book and conduct tours without direct interaction, while landlords can list properties and automate the leasing process.
+
+Secure
+- Computer Vision Copilot: Real-time oversight during self-tours
+- ID Check
+- Credit Score Precheck
+- Tenant Credit Card Registration
+
+Inclusive
+- No demo
+- No minimum doors
+- Register and use it
+- First property free
+
+With these features, we build trust between landlords and tenants.
+Self-tours become the default option for every tenant during the rental journey.
+Tenants rent a house quicker.
+Landlords rent out their property faster.
+The entire market becomes more efficient.
+
+![image](https://github.com/spaceFlow-US/.github/assets/20626329/6ebce482-6ddb-465a-b359-26880abe0e1c)
+
 ## How spaceFlow works
 ```mermaid
 sequenceDiagram
@@ -130,34 +162,6 @@ block-beta
 ![image](https://github.com/spaceFlow-US/.github/assets/20626329/d977294b-8132-4a19-bce5-bbdb617f5576)
 
 
-## Problem
-- Long idle time due to schedule mismatch (42 days, Zumper)
-- No Trust on Self-Tour
-
-![image](https://github.com/spaceFlow-US/.github/assets/20626329/f13aa62a-71c5-4ca5-9d37-b45f0d92ee59)
-
-## Solution
-:point_right: Computer Vision Self-Tour 
-
-Trustworthy
-- Computer Vision Copilot: Real-time oversight during self-tours
-- ID Check
-- Credit Score Precheck
-- Tenant Credit Card Registration
-
-Inclusive
-- No demo
-- No minimum doors
-- Register and use it
-- First property free
-
-With these features, we build trust between landlords and tenants.
-Self-tours become the default option for every tenant during the rental journey.
-Tenants rent a house quicker.
-Landlords rent out their property faster.
-The entire market becomes more efficient.
-
-![image](https://github.com/spaceFlow-US/.github/assets/20626329/6ebce482-6ddb-465a-b359-26880abe0e1c)
 
 ## How large is AI-IoT-enabled rental market? 50B 
 
