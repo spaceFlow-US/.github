@@ -266,6 +266,10 @@ https://www.showdigs.com/showdigs-vs-the-competition
 - YAGNI (You Aren't Gonna Need It)
 - Refactor Regularly
 
+## Productivity 
+[Pomodoro](https://youtu.be/QL7rzE81S4M?si=9zw9s8QDkV4C1tZB)
+
+
 ## Motivation
 
 My name is Sung-Fu Han, and I've been a software engineer and part-time landlord in Taiwan for the past 10 years. I manage properties scattered across Taipei City, New Taipei City, and Kaohsiung. However, the challenges of in-person property tours have led me to embark on an exciting new venture.
