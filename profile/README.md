@@ -10,28 +10,30 @@ Adding a property is the [only required task](#how-spaceflow-works) for house pr
 
 
 ## Problem
-The traditional rental market faces inefficiencies such as 
-- long idle times (42 days, Zumper) due to schedule mismatches and
--  a lack of trust in self-tours.
+Rental house vacancy periods are too long, averaging 42 days (Zumper), primarily due to scheduling mismatches between house providers and tenants. Self-guided tours can significantly reduce this period. According to Rently, Willow Bridge Properties experienced a 75% reduction in time on market, with 30% of leases resulting from self-guided tours [1]. However, self-guided tours are not widely popular due to security concerns, technological barriers, and tenant experience.
 
-Landlords and tenants both suffer from these issues, leading to prolonged vacancies and an inconvenient rental process.
+[1] https://use.rently.com/wp-content/uploads/2024/01/Willow-Bridge-Case-Study.pdf
+
 
 ![image](https://github.com/spaceFlow-US/.github/assets/20626329/f13aa62a-71c5-4ca5-9d37-b45f0d92ee59)
 
 ## Solution
-SpaceFlow addresses these issues by leveraging AI, IoT, and computer vision technologies to enable secure, self-guided tours and a seamless rental process. Tenants can book and conduct tours without direct interaction, while landlords can list properties and automate the leasing process.
+SpaceFlow addresses security concerns, technological barriers, and tenant experience using smart lock and computer vision for self-guided tours.
 
-Secure
+Secure concerns
 - Computer Vision Copilot: Real-time oversight during self-tours
 - ID Check
 - Credit Score Precheck
 - Tenant Credit Card Registration
 
-Inclusive
-- No demo
-- No minimum doors
-- Register and use it
-- First property free
+Technological barriers
+- smart lock is the only requirement
+- no camera
+- no microphone
+
+Tenant experience
+- GPT-voice-based realtime QA
+- Self-service in every step
 
 With these features, we build trust between landlords and tenants.
 Self-tours become the default option for every tenant during the rental journey.
