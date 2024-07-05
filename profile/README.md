@@ -3,9 +3,13 @@ use it now :point_right: https://tour.getspaceflow.com
 
 ## Short Intro
 
-spaceFlow is a leasing automation platform using smart lock and computer vision. We minimize house providers' task. Adding a property is the [only required task](#how-spaceflow-works) for house providers, that's it. Invest in homes like stocks, earn dividends effortlessly.
+spaceFlow is a leasing automation platform using smart lock and computer vision. 
 
-High-quality tenants are the backbone of a thriving rental market. They are busy with high wage. spaceFlow provide express rental process for them. From search to settlement, every step is self-service, including ID verification, self-guided tours, direct video communication with landlords, background check, eSign, auto payment, smart lock permission grant and more. Our mechanism empowers tenants to become invaluable assets for landlords, acting as reliable, single-unit property managers.
+High-quality tenants are the backbone of a thriving rental market. They are busy with high wage and good credit score. spaceFlow provide express rental process for them. From search to settlement, every step is self-service, including ID verification, self-guided tours, direct video communication with landlords, background check, eSign, auto payment, smart lock permission grant and more. 
+
+We maximize tenants' convenience by empowering them walk through entire rental on their own. 
+
+We minimize house providers' tasks. Add a property is the [only required task](#how-spaceflow-works) for house providers, that's it. Invest in homes like stocks, earn dividends effortlessly.
 
 
 ## Problem
