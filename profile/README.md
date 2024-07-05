@@ -28,8 +28,7 @@ Secure concerns
 
 Technological barriers
 - smart lock is the only requirement
-- no camera
-- no microphone
+- no camera, tenant will record video using their phone
 
 Tenant experience
 - GPT-voice-based realtime QA
