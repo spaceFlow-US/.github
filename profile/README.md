@@ -68,7 +68,9 @@ sequenceDiagram
     par Self Tour
         Tenant->>spaceFlow: Attend at House Address
         Landlord-->>spaceFlow: Attend Online
-    spaceFlow->spaceFlow: CV Copilot/Video Record
+        Tenant->>spaceFlow: Ask: how many rooms?
+        spaceFlow->>Tenant: GPT4 Voice-based Answering
+        spaceFlow->>spaceFlow: CV Copilot/Video Record
     end
     Tenant-->>spaceFlow: Check Video Tour Diary
 
