@@ -10,7 +10,7 @@ Adding a property is the [only required task](#how-spaceflow-works) for house pr
 
 
 ## Problem
-Rental house vacancy periods are too long, averaging 42 days (Zumper), primarily due to scheduling mismatches between house providers and tenants. Self-guided tours can significantly reduce this period. According to Rently, Willow Bridge Properties experienced a 75% reduction in time on market, with 30% of leases resulting from self-guided tours [1]. However, self-guided tours are not widely popular due to security concerns, technological barriers, and tenant experience.
+Rental house vacancy periods are too long, averaging 42 days (Zumper), primarily due to scheduling mismatches between house providers and tenants. Self-guided tours can significantly reduce this period. According to Rently, Willow Bridge Properties experienced a 75% reduction in time on market, with 30% of leases resulting from self-guided tours [1]. However, self-guided tours are not widely popular due to security concerns and smart lock barriers.
 
 [1] https://use.rently.com/wp-content/uploads/2024/01/Willow-Bridge-Case-Study.pdf
 
@@ -18,17 +18,19 @@ Rental house vacancy periods are too long, averaging 42 days (Zumper), primarily
 ![image](https://github.com/spaceFlow-US/.github/assets/20626329/f13aa62a-71c5-4ca5-9d37-b45f0d92ee59)
 
 ## Solution
-SpaceFlow addresses security concerns, technological barriers, and tenant experience using smart lock and computer vision for self-guided tours.
 
-Secure concerns
-- Computer Vision Copilot: Real-time oversight during self-tours
+Tackle Secure concerns with
+- Computer Vision Copilot: Real-time oversight during self-tours (no camera required, tenant will record video using their phone)
 - ID Check
 - Credit Score Precheck
 - Tenant Credit Card Registration
 
-Technological barriers
-- smart lock is the only requirement
-- no camera, tenant will record video using their phone
+Tackle smart lock barriers with
+- OTP Lock
+- No Wi-Fi/LTE required
+- 1hr passcode
+- Long Lifespan
+- Affordable price
 
 Tenant experience
 - GPT-voice-based realtime QA
