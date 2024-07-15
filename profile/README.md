@@ -20,12 +20,13 @@ Rental house vacancy periods are too long, averaging 42 days (Zumper), primarily
 ## Solution
 
 Tackle Secure concerns with
-- Computer Vision Copilot: Real-time oversight during self-tours (no camera required, tenant will record video using their phone)
+- Computer Vision Copilot: Real-time oversight during self-tours (no camera required, tenant will record video using their phone for tour diary)
 - ID Check
 - Credit Score Precheck
 - Tenant Credit Card Registration
 
 Tackle smart lock barriers with
+- support more than 25 brands, 278 models smart locks
 - OTP Lock
 - No Wi-Fi/LTE required
 - 1hr passcode
