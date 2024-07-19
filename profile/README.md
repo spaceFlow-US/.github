@@ -23,9 +23,7 @@ Minimize squatting risk with
 - ID Check: avoid illegal resident
 - Credit Score Precheck: lower risk of irresponsibility
 - Credit Card Registration: make commitment
-- Computer Vision Copilot [2]: fraud detection during self tour
-
-[2] Real-time oversight during self-tours (no camera required, tenant will record video using their phone for tour diary)
+- Computer Vision Copilot [2]: Real-time fraud detection during self-tours (no camera required, tenant will record video using their phone for tour diary)
 
 Tackle smart lock barriers with
 - support more than 25 brands, 278 models smart locks
