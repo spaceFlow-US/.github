@@ -263,7 +263,7 @@ https://www.showdigs.com/showdigs-vs-the-competition
 ## Culture
 - [Fight on](https://www.youtube.com/watch?v=RQ7oArZrQ1s&t=73s&ab_channel=CaliforniasGold)
 - 匠 (Perfection)
-- Curiosity
+- 勤 (Diligence)
 
 ## Design Principles
 - SOLID
